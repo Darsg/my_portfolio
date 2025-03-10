@@ -132,21 +132,21 @@
                         "faColors": null
                     },
                     "locales": {
-                        "en": {
-                            "info": "Tech Team Lead at <b>PrintBind</b>",
-                            "text": "Collaborating with Darsh transformed everything. His knowledge, ability to solve problems, and commitment significantly enhanced our project and motivated the team. His creativity and dedication to excellence render him indispensable."
+                        "en": {  
+                            "info": "Tech Team Lead at <b>PrintBind</b>",  
+                            "text": "Collaborating with Darsh was a game-changer. His expertise, problem-solving skills, and dedication greatly improved our project and motivated the team. His creativity and pursuit of excellence make him an invaluable asset."  
                         },
                         "es": {
                             "info": "Líder del equipo tecnológico en <b>PrintBind</b>",
-                            "text": "Colaborar con Darsh lo cambió todo. Su conocimiento, capacidad para resolver problemas y compromiso mejoraron significativamente nuestro proyecto y motivaron al equipo. Su creatividad y dedicación a la excelencia lo hacen indispensable."
+                            "text": "Trabajar con Darsh fue un gran cambio. Su conocimiento, resolución de problemas y compromiso mejoraron nuestro proyecto y motivaron al equipo. Su creatividad y excelencia lo hacen invaluable."
                         },
                         "fr": {
                             "info": "Lead technique chez <b>PrintBind</b>",
-                            "text": "Collaborer avec Darsh a tout transformé. Son expertise, sa capacité à résoudre des problèmes et son engagement ont considérablement amélioré notre projet et motivé l'équipe. Sa créativité et son dévouement à l'excellence le rendent indispensable."
+                            "text": "Travailler avec Darsh a tout changé. Son expertise, sa résolution de problèmes et son engagement ont amélioré notre projet et motivé l'équipe. Sa créativité et son excellence le rendent inestimable."
                         },
                         "ko": {
                             "info": "<b>PrintBind</b> 기술팀 리더",
-                            "text": "Darsh와의 협업은 모든 것을 변화시켰습니다. 그의 지식, 문제 해결 능력, 그리고 헌신은 우리 프로젝트를 크게 향상시키고 팀에 동기를 부여했습니다. 그의 창의성과 탁월함에 대한 헌신은 그를 없어서는 안 될 존재로 만듭니다."
+                            "text": "Darsh와의 협업은 큰 변화를 가져왔습니다. 그의 지식, 문제 해결 능력, 그리고 헌신은 프로젝트를 향상시키고 팀을 독려했습니다. 그의 창의성과 탁월함은 그를 소중한 존재로 만듭니다."
                         }
                     }
                 },
@@ -164,19 +164,19 @@
                     "locales": {
                         "en": {
                             "info": "Lead Developer at <b>InfyRealty</b>",
-                            "text": "Darsh is an exceptional developer with a keen eye for innovation and efficiency. His expertise and leadership have been instrumental in driving our projects to success, ensuring top-tier solutions while fostering a culture of creativity and technical excellence."
+                            "text": "Darsh is an outstanding developer with a sharp sense for innovation and efficiency. His expertise and leadership drive success, delivering top-tier solutions while fostering creativity and technical excellence."
                         },
                         "es": {
                             "info": "Desarrollador principal en <b>InfyRealty</b>",
-                            "text": "Darsh es un desarrollador excepcional con un gran sentido de la innovación y la eficiencia. Su experiencia y liderazgo han sido clave para el éxito de nuestros proyectos, garantizando soluciones de primer nivel y fomentando una cultura de creatividad y excelencia técnica."
+                            "text": "Darsh es un desarrollador excepcional con un gran sentido de la innovación y la eficiencia. Su experiencia y liderazgo impulsan el éxito, ofreciendo soluciones de primer nivel mientras fomenta la creatividad y la excelencia técnica."
                         },
                         "fr": {
                             "info": "Développeur principal chez <b>InfyRealty</b>",
-                            "text": "Darsh est un développeur exceptionnel avec un sens aigu de l'innovation et de l'efficacité. Son expertise et son leadership ont joué un rôle clé dans la réussite de nos projets, assurant des solutions de premier ordre tout en favorisant une culture de créativité et d'excellence technique."
+                            "text": "Darsh est un développeur exceptionnel avec un sens aigu de l'innovation et de l'efficacité. Son expertise et son leadership favorisent le succès, en fournissant des solutions de premier ordre tout en encourageant la créativité et l'excellence technique."
                         },
                         "ko": {
                             "info": "<b>InfyRealty</b> 수석 개발자",
-                            "text": "Darsh는 혁신과 효율성에 대한 탁월한 감각을 가진 뛰어난 개발자입니다. 그의 전문성과 리더십은 우리 프로젝트의 성공에 중요한 역할을 했으며, 최상급 솔루션을 보장하는 동시에 창의성과 기술적 우수성을 장려하는 문화를 조성했습니다."
+                            "text": "Darsh는 혁신과 효율성에 대한 뛰어난 감각을 가진 개발자입니다. 그의 전문성과 리더십은 성공을 이끌며, 최상급 솔루션을 제공하는 동시에 창의성과 기술적 우수성을 촉진합니다."
                         }
                     }
                 }
@@ -200,26 +200,53 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-guitar",
+                        "fa": "fa-solid fa-baseball",
                         "faColors": null
                     },
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "Playing guitar",
-                            "info": "Exploring different genres and improving my skills."
+                            "title": "Playing cricket",
+                            "info": "Passionate about cricket, honing skills, strategy, and teamwork for continuous growth."
                         },
                         "es": {
-                            "title": "Tocar la guitarra",
-                            "info": "Explorando diferentes géneros y mejorando mis habilidades."
+                            "title": "Jugar al críquet",
+                            "info": "Apasionado por el críquet, mejorando habilidades, estrategia y trabajo en equipo para un crecimiento continuo."
                         },
                         "fr": {
-                            "title": "Jouer de la guitare",
-                            "info": "Explorer différents genres et améliorer mes compétences."
+                            "title": "Jouer au cricket",
+                            "info": "Passionné de cricket, perfectionnant ses compétences, sa stratégie et son esprit d'équipe pour une amélioration continue."
                         },
                         "ko": {
-                            "title": "기타 연주",
-                            "info": "다양한 장르를 탐험하고 기술을 향상시키기."
+                            "title": "크리켓 경기",
+                            "info": "크리켓에 대한 열정, 기술, 전략, 팀워크를 연마하며 지속적인 성장 추구."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-tv",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Sci-Fi Movie Watching",
+                            "info": "Excited to learn about new technologies and ideas through science fiction movies."
+                        },
+                        "es": {
+                            "title": "Ver películas de ciencia ficción",
+                            "info": "Emocionado por aprender sobre nuevas tecnologías e ideas a través de películas de ciencia ficción."
+                        },
+                        "fr": {
+                            "title": "Regarder des films de science-fiction",
+                            "info": "Impatient d'en apprendre davantage sur les nouvelles technologies et idées à travers les films de science-fiction."
+                        },
+                        "ko": {
+                            "title": "SF 영화 감상",
+                            "info": "SF 영화를 통해 새로운 기술과 아이디어를 배우는 것이 기대됩니다."
                         }
                     }
                 },
@@ -233,20 +260,20 @@
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "AI video editing",
-                            "info": "Learning to use AI tools to enhance my videos."
+                            "title": "Prompt to Video",
+                            "info": "Creating video content for YouTube and exploring new video editing techniques."
                         },
                         "es": {
-                            "title": "Edición de video con IA",
-                            "info": "Aprendiendo a usar herramientas de IA para mejorar mis videos."
+                            "title": "Generar indicaciones a video",
+                            "info": "Creando contenido en video para YouTube y explorando nuevas técnicas de edición."
                         },
                         "fr": {
-                            "title": "Montage vidéo avec IA",
-                            "info": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
+                            "title": "Générer une invite en vidéo",
+                            "info": "Créer du contenu vidéo pour YouTube et explorer de nouvelles techniques de montage."
                         },
                         "ko": {
-                            "title": "AI 영상 편집",
-                            "info": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
+                            "title": "프롬프트를 영상으로 생성",
+                            "info": "YouTube용 동영상을 만들고 새로운 편집 기술을 탐구하기."
                         }
                     }
                 },
@@ -254,107 +281,26 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-paint-brush",
+                        "fa": "fa-solid fa-bitcoin-sign",
                         "faColors": null
                     },
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "Illustration",
-                            "info": "Practicing digital art and exploring new styles."
+                            "title": "Cryptocurrency",
+                            "info": "Exploring the world of cryptocurrency and blockchain technology."
                         },
                         "es": {
-                            "title": "Ilustración",
-                            "info": "Practicando arte digital y explorando nuevos estilos."
+                            "title": "Criptomonedas",
+                            "info": "Explorando el mundo de las criptomonedas y la tecnología blockchain."
                         },
                         "fr": {
-                            "title": "Illustration",
-                            "info": "Pratiquer l'art numérique et explorer de nouveaux styles."
+                            "title": "Cryptomonnaie",
+                            "info": "Explorer le monde des cryptomonnaies et de la technologie blockchain."
                         },
                         "ko": {
-                            "title": "일러스트레이션",
-                            "info": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-chart-line",
-                        "faColors": null
-                    },
-                    "value": null,
-                    "locales": {
-                        "en": {
-                            "title": "Investing",
-                            "info": "Learning the basics of stocks and personal finance."
-                        },
-                        "es": {
-                            "title": "Invertir",
-                            "info": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
-                        },
-                        "fr": {
-                            "title": "Investir",
-                            "info": "Apprendre les bases des actions et des finances personnelles."
-                        },
-                        "ko": {
-                            "title": "투자",
-                            "info": "주식과 개인 재정의 기초 배우기."
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-pencil-alt",
-                        "faColors": null
-                    },
-                    "value": null,
-                    "locales": {
-                        "en": {
-                            "title": "UX design",
-                            "info": "Studying user experience principles."
-                        },
-                        "es": {
-                            "title": "Diseño UX",
-                            "info": "Estudiando los principios de la experiencia del usuario."
-                        },
-                        "fr": {
-                            "title": "Conception UX",
-                            "info": "Étudier les principes de l'expérience utilisateur."
-                        },
-                        "ko": {
-                            "title": "UX 디자인",
-                            "info": "사용자 경험 원칙을 공부하기."
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-camera-retro",
-                        "faColors": null
-                    },
-                    "value": null,
-                    "locales": {
-                        "en": {
-                            "title": "Photo editing",
-                            "info": "Enhancing photos through creative editing techniques."
-                        },
-                        "es": {
-                            "title": "Edición de fotos",
-                            "info": "Mejorando fotos a través de técnicas creativas de edición."
-                        },
-                        "fr": {
-                            "title": "Retouche photo",
-                            "info": "Améliorer des photos avec des techniques de montage créatives."
-                        },
-                        "ko": {
-                            "title": "사진 편집",
-                            "info": "창의적인 편집 기술을 통해 사진을 향상시키기."
+                            "title": "암호화폐",
+                            "info": "암호화폐와 블록체인 기술의 세계 탐험하기."
                         }
                     }
                 }
