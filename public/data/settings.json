@@ -6,17 +6,17 @@
     "preloader": {
         "enabled": true,
         "title": "React <b>Portfolio</b>",
-        "subtitle": "by Ryan Balieiro"
+        "subtitle": "by Darsh Dobariya"
     },
 
     "profile": {
-        "name": "Mark Choi",
-        "stylizedName": "<strong>Mark **Choi**</strong>",
+        "name": "Darsh Dobariya",
+        "stylizedName": "<strong>Darsh **Dobariya**</strong>",
         "logoUrl": "images/svg/logo.svg",
         "profilePictureUrl": "images/pictures/avatar.jpg",
 
         "locales": {
-            "en": {"role": "Web Developer"},
+            "en": {"role": "Full Stack Developer"},
             "es": {"role": "Desarrollador Web"},
             "fr": {"role": "Développeur Web"},
             "ko": {"role": "웹 개발자"}

@@ -4,28 +4,28 @@
             "title": "Welcome!",
             "title_menu": "About me",
             "title_long_prefix": "Hello...",
-            "title_long": "I'm **Mark Choi!**"
+            "title_long": "I'm **Darsh Dobariya!**"
         },
 
         "es": {
             "title": "¡Saludos!",
             "title_menu": "Sobre mí",
             "title_long_prefix": "Hola...",
-            "title_long": "Soy **Mark Choi!**"
+            "title_long": "Soy **Darsh Dobariya!**"
         },
 
         "fr": {
             "title": "Salut !",
             "title_menu": "À propos",
             "title_long_prefix": "Salut...",
-            "title_long": "Je suis **Mark Choi!**"
+            "title_long": "Je suis **Darsh Dobariya!**"
         },
 
         "ko": {
             "title": "환영합니다!",
             "title_menu": "소개",
             "title_long_prefix": "안녕하세요...",
-            "title_long": "저는 **Mark Choi** 입니다!"
+            "title_long": "저는 **Darsh Dobariya** 입니다!"
         }
     },
 
@@ -46,7 +46,7 @@
 
             "items": [
                 {
-                    "value": "Cupertino – CA",
+                    "value": "Mumbai – India",
                     "links": [
                         {"href": null}
                     ],
@@ -57,9 +57,9 @@
                     }
                 },
                 {
-                    "value": "mark.choi@dev.com",
+                    "value": "darshdobariya3@gmail.com",
                     "links": [
-                        {"href": "mailto:mark.choi@dev.com"}
+                        {"href": "mailto:darshdobariya3@gmail.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -68,9 +68,9 @@
                     }
                 },
                 {
-                    "value": "@ryanbalieiro",
+                    "value": "@darsg",
                     "links": [
-                        {"href": "https://github.com/ryanbalieiro"}
+                        {"href": "https://github.com/darsg"}
                     ],
                     "icon": {
                         "img": null,
@@ -100,10 +100,10 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"text": "<p>I’m a PHP developer with <b>over a decade</b> of experience, specializing in backend development with some frontend work as well. I also have hands-on experience with C++, C#, Go, and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b>"},
-                        "es": {"text": "<p>Soy un desarrollador de PHP con <b>más de una década</b> de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos.</p><p>¡Espero con interés colaborar <b>contigo!</b></p>"},
-                        "fr": {"text": "<p>Je suis développeur PHP avec <b>plus d'une décennie</b> d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets.</p><p>Je suis impatient de collaborer <b>avec vous !</b></p>"},
-                        "ko": {"text": "<p>저는 백엔드 개발을 전문으로 하고, 프론트엔드 작업도 일부 수행해온 <b>10년 이상의</b> 경력을 가진 PHP 개발자입니다. 또한 C++, C#, Go, Python 스택을 사용한 프로덕션 경험도 있습니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다.</p><p><b>당신과 협업</b>하기를 기대하고 있습니다!</p>"}
+                        "en": {"text": "<p>I’m a Software Developer with <b>over 2 years</b> of experience, specializing in backend development with frontend work as well. I also have hands-on experience with Java, Kotlin, JavaScript, NodeJS, React, Spring Boot, and React Native in production environments. This diverse background gives me the flexibility to adapt to a wide range of project needs. <br> <br> I look forward to collaborating <b>with you!</b></p>"},
+                        "es": {"text": "<p>Español: Soy un Desarrollador de Software con <b>más de 2 años</b> de experiencia, especializado en desarrollo backend con trabajo en frontend también. También tengo experiencia práctica con Java, Kotlin, JavaScript, NodeJS, React, Spring Boot y React Native en entornos de producción. Esta experiencia diversa me brinda la flexibilidad para adaptarme a una amplia variedad de proyectos. <br><br>  ¡Espero colaborar <b>contigo</b>!</p>"},
+                        "fr": {"text": "<p>Français: Je suis un Développeur de Logiciels avec <b>plus de 2 ans</b> d'expérience, spécialisé dans le développement backend avec du travail en frontend également. J'ai une expérience pratique avec Java, Kotlin, JavaScript, NodeJS, React, Spring Boot et React Native dans des environnements de production. Ce parcours diversifié me permet de m'adapter à une grande variété de projets. <br><br>  J'ai hâte de collaborer <b>avec vous</b> !</p>"},
+                        "ko": {"text": "<p>한국어: 저는 <b>2년 이상의</b> 경험을 가진 소프트웨어 개발자로, 백엔드 개발을 전문으로 하면서 프론트엔드 작업도 수행하고 있습니다. 또한 Java, Kotlin, JavaScript, NodeJS, React, Spring Boot, React Native를 프로덕션 환경에서 직접 다뤄본 경험이 있습니다. 이러한 다양한 경험을 통해 다양한 프로젝트 요구 사항에 유연하게 적응할 수 있습니다. <br><br>  함께 협업할 수 있기를 기대합니다! <b>감사합니다!</b></p>"}
                     }
                 }
             ]
@@ -122,9 +122,9 @@
 
             "items": [
                 {
-                    "value": "Anita Bath",
+                    "value": "Naumi Gadhiya",
                     "links": [
-                        {"href": "https://linkedin.com"}
+                        {"href": "https://in.linkedin.com/in/naumi-gadhiya-97246a24b"}
                     ],
                     "icon": {
                         "img": "images/pictures/person-1.png",
@@ -133,28 +133,28 @@
                     },
                     "locales": {
                         "en": {
-                            "info": "CEO at <b>SalesForce</b>",
-                            "text": "Working with Mark was a transformative experience. His programming skills and dedication not only improved our project but also inspired the entire team."
+                            "info": "Tech Team Lead at <b>PrintBind</b>",
+                            "text": "Collaborating with Darsh transformed everything. His knowledge, ability to solve problems, and commitment significantly enhanced our project and motivated the team. His creativity and dedication to excellence render him indispensable."
                         },
                         "es": {
-                            "info": "CEO en <b>SalesForce</b>",
-                            "text": "Trabajar con Mark fue una experiencia transformadora. Sus habilidades de programación y dedicación no solo mejoraron nuestro proyecto, sino que también inspiraron a todo el equipo."
+                            "info": "Líder del equipo tecnológico en <b>PrintBind</b>",
+                            "text": "Colaborar con Darsh lo cambió todo. Su conocimiento, capacidad para resolver problemas y compromiso mejoraron significativamente nuestro proyecto y motivaron al equipo. Su creatividad y dedicación a la excelencia lo hacen indispensable."
                         },
                         "fr": {
-                            "info": "PDG de <b>SalesForce</b>",
-                            "text": "Travailler avec Mark a été une expérience transformative. Ses compétences en programmation et son dévouement ont non seulement amélioré notre projet, mais ont également inspiré toute l'équipe."
+                            "info": "Lead technique chez <b>PrintBind</b>",
+                            "text": "Collaborer avec Darsh a tout transformé. Son expertise, sa capacité à résoudre des problèmes et son engagement ont considérablement amélioré notre projet et motivé l'équipe. Sa créativité et son dévouement à l'excellence le rendent indispensable."
                         },
                         "ko": {
-                            "info": "세일즈포스  CEO",
-                            "text": "Mark와의 협업은 변화를 가져오는 경험이었습니다. 그의 프로그래밍 기술과 헌신은 우리 프로젝트를 개선할 뿐만 아니라 팀 전체에 영감을 주었습니다."
+                            "info": "<b>PrintBind</b> 기술팀 리더",
+                            "text": "Darsh와의 협업은 모든 것을 변화시켰습니다. 그의 지식, 문제 해결 능력, 그리고 헌신은 우리 프로젝트를 크게 향상시키고 팀에 동기를 부여했습니다. 그의 창의성과 탁월함에 대한 헌신은 그를 없어서는 안 될 존재로 만듭니다."
                         }
                     }
                 },
 
                 {
-                    "value": "Lou Natic",
+                    "value": "Haresh Ghoghari",
                     "links": [
-                        {"href": "https://github.com"}
+                        {"href": "https://www.linkedin.com/in/hghoghari"}
                     ],
                     "icon": {
                         "img": "images/pictures/person-3.png",
@@ -163,80 +163,20 @@
                     },
                     "locales": {
                         "en": {
-                            "info": "Lead Developer at <b>GitHub</b>",
-                            "text": "Having Mark on our team was an invaluable asset. His deep programming insights and mentorship not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
+                            "info": "Lead Developer at <b>InfyRealty</b>",
+                            "text": "Darsh is an exceptional developer with a keen eye for innovation and efficiency. His expertise and leadership have been instrumental in driving our projects to success, ensuring top-tier solutions while fostering a culture of creativity and technical excellence."
                         },
                         "es": {
-                            "info": "Desarrollador Principal en <b>GitHub </b>",
-                            "text": "Tener a Mark en nuestro equipo fue un activo invaluable. Sus profundas ideas sobre programación y su mentoría no solo elevaron nuestros proyectos, sino que también nos empoderaron para enfrentar cada desafío con confianza."
+                            "info": "Desarrollador principal en <b>InfyRealty</b>",
+                            "text": "Darsh es un desarrollador excepcional con un gran sentido de la innovación y la eficiencia. Su experiencia y liderazgo han sido clave para el éxito de nuestros proyectos, garantizando soluciones de primer nivel y fomentando una cultura de creatividad y excelencia técnica."
                         },
                         "fr": {
-                            "info": "Développeur Principal chez <b>GitHub </b>",
-                            "text": "Avoir Mark dans notre équipe a été un atout inestimable. Ses connaissances approfondies en programmation et son mentorat ont non seulement élevé nos projets, mais nous ont également permis de relever chaque défi avec confiance."
+                            "info": "Développeur principal chez <b>InfyRealty</b>",
+                            "text": "Darsh est un développeur exceptionnel avec un sens aigu de l'innovation et de l'efficacité. Son expertise et son leadership ont joué un rôle clé dans la réussite de nos projets, assurant des solutions de premier ordre tout en favorisant une culture de créativité et d'excellence technique."
                         },
                         "ko": {
-                            "info": "<b>GitHub</b> 수석 개발자",
-                            "text": "우리 팀에 Mark가 있다는 것은 귀중한 자산이었습니다. 그의 깊은 프로그래밍 통찰력과 멘토링은 우리의 프로젝트를 높이고 모든 도전에 자신감과 창의성으로 대응할 수 있게 해주었습니다."
-                        }
-                    }
-                },
-
-                {
-                    "value": "Paige Turner",
-                    "links": [
-                        {"href": null}
-                    ],
-                    "icon": {
-                        "img": "images/pictures/person-2.png",
-                        "fa": null,
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {
-                            "info": "Managing Director at <b>Dingga</b>",
-                            "text": "Collaborating with Mark was a game changer for our development process. His expertise and problem-solving abilities were invaluable to our success."
-                        },
-                        "es": {
-                            "info": "Directora General en <b>Dingga</b>",
-                            "text": "Colaborar con Mark fue un cambio de juego para nuestro proceso de desarrollo. Su experiencia y habilidades para resolver problemas fueron invaluables para nuestro éxito."
-                        },
-                        "fr": {
-                            "info": "Directrice Générale chez <b>Dingga</b>",
-                            "text": "Collaborer avec Mark a été un tournant pour notre processus de développement. Son expertise et ses capacités à résoudre des problèmes ont été inestimables pour notre succès."
-                        },
-                        "ko": {
-                            "info": "딩가 전무이사",
-                            "text": "Mark와의 협업은 우리의 개발 프로세스에 혁신을 가져왔습니다. 그의 전문성과 문제 해결 능력은 우리의 성공에 없어서는 안 될 요소였습니다."
-                        }
-                    }
-                },
-
-                {
-                    "value": "Chris P. Bacon",
-                    "links": [
-                        {"href": "https://dribbble.com"}
-                    ],
-                    "icon": {
-                        "img": "images/pictures/person-4.png",
-                        "fa": null,
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {
-                            "info": "Creative Director at <b>Dribbble</b>",
-                            "text": "Mark's attention to detail and his innovative thinking brought a fresh perspective to our design process. He truly elevated our team's work and helped us deliver results beyond expectations."
-                        },
-                        "es": {
-                            "info": "Directora Creativa en <b>Dribbble</b>",
-                            "text": "La atención al detalle de Mark y su pensamiento innovador aportaron una nueva perspectiva a nuestro proceso de diseño. Realmente elevó el trabajo de nuestro equipo y nos ayudó a ofrecer resultados más allá de lo esperado."
-                        },
-                        "fr": {
-                            "info": "Directrice Créative chez <b>Dribbble</b>",
-                            "text": "L'attention aux détails de Mark et sa pensée innovante ont apporté une nouvelle perspective à notre processus de design. Il a véritablement élevé le travail de notre équipe et nous a aidés à livrer des résultats au-delà des attentes."
-                        },
-                        "ko": {
-                            "info": "<b>Dribbble</b> 크리에이티브 디렉터",
-                            "text": "Mark의 세부 사항에 대한 주의와 혁신적인 사고는 우리 디자인 프로세스에 신선한 관점을 제공했습니다. 그는 팀의 작업을 향상시키고 기대 이상의 결과를 제공하는 데 큰 도움을 주었습니다."
+                            "info": "<b>InfyRealty</b> 수석 개발자",
+                            "text": "Darsh는 혁신과 효율성에 대한 탁월한 감각을 가진 뛰어난 개발자입니다. 그의 전문성과 리더십은 우리 프로젝트의 성공에 중요한 역할을 했으며, 최상급 솔루션을 보장하는 동시에 창의성과 기술적 우수성을 장려하는 문화를 조성했습니다."
                         }
                     }
                 }
