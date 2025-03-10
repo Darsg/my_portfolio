@@ -35,7 +35,7 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/pictures/place-7.png",
+                        "img": "images/pictures/gurukul.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -72,7 +72,7 @@
                 },
                 {
                     "icon": {
-                        "img": "images/pictures/place-3.png",
+                        "img": "images/pictures/gurukul.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -109,7 +109,7 @@
                 },
                 {
                     "icon": {
-                        "img": "images/pictures/place-1.png",
+                        "img": "images/pictures/gurukul.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
