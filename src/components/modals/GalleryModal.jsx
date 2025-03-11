@@ -29,25 +29,48 @@ function GalleryModal({ displayingGallery, hideGallery }) {
     const direction = aspectRatio === '16:9' && !isBreakpoint('xl') && !utils.isAndroid() ? 'vertical' : 'horizontal'
 
     useEffect(() => {
-        if(!displayingGallery)
-            return
-
-        showActivitySpinner(tag)
-        scheduler.clearAllWithTag(tag)
+        if (!displayingGallery) return;
+    
+        showActivitySpinner(tag);
+        scheduler.clearAllWithTag(tag);
+    
         scheduler.schedule(() => {
-            setImages(displayingGallery.screenshots || [])
-            setAspectRatio(displayingGallery.aspectRatio)
-
-            if(!RATIO_CLASSES[displayingGallery.aspectRatio]) {
-                throw new Error("Aspect ratio " + aspectRatio + " not supported by the gallery viewer component. The supported ratios are 16:9 and 9:16.")
+            console.log("Received Images:", displayingGallery.screenshots);
+            console.log("Received Aspect Ratio:", displayingGallery.aspectRatio);
+    
+            setImages(displayingGallery.screenshots || []);
+    
+            let ratio = displayingGallery.aspectRatio;
+            
+            // If aspect ratio is null, try calculating it from the first image
+            if (!ratio && displayingGallery.screenshots.length > 0) {
+                const img = new Image();
+                img.src = utils.resolvePath(displayingGallery.screenshots[0]);
+    
+                img.onload = () => {
+                    const width = img.width;
+                    const height = img.height;
+    
+                    if (width && height) {
+                        ratio = width > height ? "16:9" : "9:16"; // Determine aspect ratio
+                        setAspectRatio(ratio);
+                        console.log("Calculated Aspect Ratio:", ratio);
+    
+                        if (!RATIO_CLASSES[ratio]) {
+                            throw new Error(`Aspect ratio ${ratio} not supported by the gallery viewer component. The supported ratios are 16:9 and 9:16.`);
+                        }
+                    }
+                };
+            } else {
+                setAspectRatio(ratio || "16:9"); // Default to 16:9 if null
             }
-        }, 100, tag)
-
+        }, 100, tag);
+    
         scheduler.schedule(() => {
-            _checkLoadCompletion()
-        }, 200, tag)
-
-    }, [displayingGallery])
+            _checkLoadCompletion();
+        }, 200, tag);
+    }, [displayingGallery]);
+    
 
     const _checkLoadCompletion = () => {
         scheduler.clearAllWithTag(tag)
