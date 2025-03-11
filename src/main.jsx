@@ -1,13 +1,13 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import {DataProvider} from "/src/providers/DataProvider"
-import {LanguageProvider} from "/src/providers/LanguageProvider"
-import {ThemeProvider} from "/src/providers/ThemeProvider"
-import {GlobalStateProvider} from "/src/providers/GlobalStateProvider"
-import {FeedbacksProvider} from "/src/providers/FeedbacksProvider"
-import {WindowProvider} from "/src/providers/WindowProvider"
-import App from "/src/components/App.jsx"
-import Preloader from "/src/components/Preloader.jsx"
+import {DataProvider} from '../src/providers/DataProvider'
+import {LanguageProvider} from "../src/providers/LanguageProvider"
+import {ThemeProvider} from "../src/providers/ThemeProvider"
+import {GlobalStateProvider} from "../src/providers/GlobalStateProvider"
+import {FeedbacksProvider} from "../src/providers/FeedbacksProvider"
+import {WindowProvider} from "../src/providers/WindowProvider"
+import App from "../src/components/App.jsx"
+import Preloader from "../src/components/Preloader.jsx"
 
 const AppProviders = ({ children }) => (
     <DataProvider>
