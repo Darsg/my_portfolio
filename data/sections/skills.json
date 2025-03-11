@@ -1,0 +1,507 @@
+{
+    "locales": {
+        "en": {
+            "title": "Skills",
+            "title_long_prefix": "Explore",
+            "title_long": "My **Skill Set**"
+        },
+
+        "es": {
+            "title": "Habilidades",
+            "title_long_prefix": "Explora",
+            "title_long": "Mis **Habilidades**"
+        },
+
+        "fr": {
+            "title": "Capacités",
+            "title_long_prefix": "Explorez",
+            "title_long": "Mes **Compétences**"
+        },
+
+        "ko": {
+            "title": "스킬",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**스킬**입니다"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "capabilities",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-table-columns",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Website** Design",
+                            "text": "I will bring your ideas to life!"
+                        },
+                        "es": {
+                            "title": "Diseño de **sitios web**",
+                            "text": "¡Haré realidad tus ideas!"
+                        },
+                        "fr": {
+                            "title": "Conception de **sites web**",
+                            "text": "Je donnerai vie à vos idées !"
+                        },
+                        "ko": {
+                            "title": "**웹사이트** 디자인",
+                            "text": "당신의 아이디어를 현실로 만들어 드립니다!"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Database** Management",
+                            "text": "I can efficiently manage your data!"
+                        },
+                        "es": {
+                            "title": "Gestión de **bases de datos**",
+                            "text": "¡Puedo gestionar tus datos de manera eficiente!"
+                        },
+                        "fr": {
+                            "title": "Gestion de **bases de données**",
+                            "text": "Je peux gérer vos données de manière efficace !"
+                        },
+                        "ko": {
+                            "title": "**데이터베이스** 관리",
+                            "text": "데이터를 효율적으로 관리할 수 있습니다!"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-mobile-screen-button",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**App** Development",
+                            "text": "I can design and build innovative, high-quality applications!"
+                        },
+                        "es": {
+                            "title": "Desarrollo de **aplicaciones**",
+                            "text": "¡Puedo diseñar y desarrollar aplicaciones innovadoras y de alta calidad!"
+                        },
+                        "fr": {
+                            "title": "Développement d'**applications**",
+                            "text": "Je peux concevoir et développer des applications innovantes et de haute qualité !"
+                        },
+                        "ko": {
+                            "title": "**앱** 개발",
+                            "text": "창의적이고 고품질의 앱을 설계하고 개발할 수 있습니다!"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-window-restore",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "REST **APIs**",
+                            "text": "I have the expertise to develop robust and efficient API services!"
+                        },
+                        "es": {
+                            "title": "APIs **REST**",
+                            "text": "¡Tengo la experiencia para desarrollar servicios API robustos y eficientes!"
+                        },
+                        "fr": {
+                            "title": "APIs **REST**",
+                            "text": "J'ai l'expertise nécessaire pour développer des services API robustes et efficaces !"
+                        },
+                        "ko": {
+                            "title": "REST **API**",
+                            "text": "강력하고 효율적인 API 서비스를 개발할 수 있습니다!"
+                        }
+                    }
+                },
+                
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-exclamation",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Quick** Problem Solver",
+                            "text": "I analyze challenges efficiently and provide effective solutions."
+                        },
+                        "es": {
+                            "title": "**Resolutor** rápido de problemas",
+                            "text": "Analizo desafíos de manera eficiente y ofrezco soluciones efectivas."
+                        },
+                        "fr": {
+                            "title": "**Résolveur** de problèmes rapide",
+                            "text": "J'analyse les défis efficacement et propose des solutions adaptées."
+                        },
+                        "ko": {
+                            "title": "**빠른** 문제 해결사",
+                            "text": "문제를 신속하게 분석하고 효과적인 해결책을 제공합니다."
+                        }
+                    }
+                }                
+            ]
+
+        },
+
+        {
+            "id": "backend_programming",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Backend"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-node-js",
+                        "faColors": {"bg": "#339933", "fill": "#EEE"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "08/01/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Node.js",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-leaf",
+                        "faColors": {"bg": "##0F4D0F", "fill": "#FFFFFF"}
+                    },
+                    "value": 87,
+                    "dates": {
+                        "start": "08/01/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Spring Boot",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-java",
+                        "faColors": {"bg": "#007396", "fill": "#EEE"}
+                    },
+                    "value": 95,
+                    "dates": {
+                        "start": "08/1/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Java 11+",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#4479A1", "fill": "#EEE"}
+                    },
+                    "value": 92,
+                    "dates": {
+                        "start": "10/10/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-docker",
+                        "faColors": {"bg": "#2496ED", "fill": "#EEE"}
+                    },
+                    "value": 70,
+                    "dates": {
+                        "start": "07/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Docker",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-life-ring",
+                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
+                    },
+                    "value": 70,
+                    "dates": {
+                        "start": "07/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Kubernetes",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-server",
+                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "04/01/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-git",
+                        "faColors": {"bg": "#F05032", "fill": "#111"}
+                    },
+                    "value": 95,
+                    "dates": {
+                        "start": "12/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Git",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "front_end_programming",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Frontend"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-html5",
+                        "faColors": {"bg": "#E34F26", "fill": "#EEE"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "09/01/2018"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "HTML5",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-css3",
+                        "faColors": {"bg": "#1572B6", "fill": "#EEE"}
+                    },
+                    "value": 65,
+                    "dates": {
+                        "start": "01/15/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "CSS3",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-react",
+                        "faColors": {"bg": "#61DAFB", "fill": "#111"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "06/20/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "React",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-android",
+                        "faColors": {"bg": "#FFFFFF", "fill": "#111"}
+                    },
+                    "value": 95,
+                    "dates": {
+                        "start": "02/10/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Android",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "languages",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": { "title": "Languages" },
+                "es": { "title": "Idiomas" },
+                "fr": { "title": "Langues" },
+                "ko": { "title": "언어" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/flags/ind.png",
+                        "fa": null,
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "Gujarati",
+                            "info": "Native speaker with excellent communication and writing skills.",
+                            "tags": ["Native"]
+                        },
+                        "es": {
+                            "title": "Gujarati",
+                            "info": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
+                            "tags": ["Nativo"]
+                        },
+                        "fr": {
+                            "title": "Gujarati",
+                            "info": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
+                            "tags": ["Natif"]
+                        },
+                        "ko": {
+                            "title": "구자라티어",
+                            "info": "모국어 수준의 의사소통 및 글쓰기 능력을 보유.",
+                            "tags": ["모국어"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/flags/ind.png",
+                        "fa": null,
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "Hindi",
+                            "info": "Fluent in both spoken and written Hindi; confident in professional communication.",
+                            "tags": ["Fluent"]
+                        },
+                        "es": {
+                            "title": "Hindi",
+                            "info": "Fluido en hindi hablado y escrito; seguro en la comunicación profesional.",
+                            "tags": ["Fluido"]
+                        },
+                        "fr": {
+                            "title": "Hindi",
+                            "info": "Fluent à l'oral et à l'écrit en hindi; confiant dans la communication professionnelle.",
+                            "tags": ["Courant"]
+                        },
+                        "ko": {
+                            "title": "힌디어",
+                            "info": "구어 및 문어 모두 유창하며, 전문적인 소통에 자신감이 있음.",
+                            "tags": ["유창"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/flags/en.png",
+                        "fa": null,
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "info": "Intermediate proficiency in English; can hold conversations and understand written text.",
+                            "tags": ["Intermediate"]
+                        },
+                        "es": {
+                            "title": "Inglés",
+                            "info": "Competencia intermedia en inglés; puede mantener conversaciones y entender textos escritos.",
+                            "tags": ["Intermedio"]
+                        },
+                        "fr": {
+                            "title": "Anglais",
+                            "info": "Compétence intermédiaire en anglais; peut tenir des conversations et comprendre des textes écrits.",
+                            "tags": ["Intermédiaire"]
+                        },
+                        "ko": {
+                            "title": "영어",
+                            "info": "중급 수준의 영어 실력; 대화 가능 및 글을 이해할 수 있음.",
+                            "tags": ["중급"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

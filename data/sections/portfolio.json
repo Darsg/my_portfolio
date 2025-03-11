@@ -1,0 +1,348 @@
+{
+    "locales": {
+        "en": {
+            "title": "Portfolio",
+            "title_long_prefix": "Take a look at",
+            "title_long": "My **Portfolio**"
+        },
+
+        "es": {
+            "title": "Portafolio",
+            "title_long_prefix": "Explora",
+            "title_long": "Mi **Portafolio**"
+        },
+
+        "fr": {
+            "title": "Portfolio",
+            "title_long_prefix": "Découvrez",
+            "title_long": "Mon **Portfolio**"
+        },
+
+        "ko": {
+            "title": "포트폴리오",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**포트폴리오**입니다"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "portfolio",
+            "component": "ArticlePortfolio",
+            "config": {},
+            "locales": {},
+
+            "categories": [
+                {
+                    "id": "apps",
+                    "locales": {
+                        "en": {"singular": "App", "plural": "Apps"},
+                        "es": {"singular": "App", "plural": "Apps"},
+                        "fr": {"singular": "App", "plural": "Apps"},
+                        "ko": {"singular": "앱", "plural": "앱들"}
+                    }
+                },
+                {
+                    "id": "websites",
+                    "locales": {
+                        "en": {"singular": "Website", "plural": "Web"},
+                        "es": {"singular": "Sitio web", "plural": "Web"},
+                        "fr": {"singular": "Site web", "plural": "Web"},
+                        "ko": {"singular": "웹사이트", "plural": "웹"}
+                    }
+                },
+                {
+                    "id": "utilities",
+                    "locales": {
+                        "en": {"singular": "Utility", "plural": "Utilities"},
+                        "es": {"singular": "Utilidad", "plural": "Utilidades"},
+                        "fr": {"singular": "Utilitaire", "plural": "Utilitaires"},
+                        "ko": {"singular": "유틸리티", "plural": "유틸리티들"}
+                    }
+                }
+            ],
+
+            "items": [
+                {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": "images/pictures/guvnl.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                    ],
+
+                    "media": {
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": [
+                                "images/pictures/guvnl_one.png",
+                                "images/pictures/guvnl_two.png",
+                                "images/pictures/guvnl_four.png",
+                                "images/pictures/guvnl_three.png",
+                                "images/pictures/guvnl_five.jpg",
+                                "images/pictures/guvnl_six.jpg",
+                                "images/pictures/guvnl_seven.jpg",
+                                "images/pictures/guvnl_eight.jpg"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "GUVNL",
+                            "text": "Maintaining the <b>LT Billing</b> software for <b>GUVNL</b>, implementing new features, enhancing performance by over <b>40%</b>, and resolving bugs to ensure a seamless user experience.",
+                            "tags": ["API", "REST", "Software Development", "Oracal"]
+                        },
+                        "es": {
+                            "title": "GUVNL",
+                            "text": "Manteniendo el software <b>LT Billing</b> para <b>GUVNL</b>, implementando nuevas funciones, mejorando el rendimiento en más de un <b>40%</b> y corrigiendo errores para garantizar una experiencia de usuario fluida.",
+                            "tags": ["API", "REST", "Desarrollo de Software", "Oracal"]
+                        },
+                        "fr": {
+                            "title": "GUVNL",
+                            "text": "Maintien du logiciel <b>LT Billing</b> pour <b>GUVNL</b>, avec l'ajout de nouvelles fonctionnalités, une amélioration des performances de plus de <b>40%</b> et la correction de bugs pour assurer une expérience utilisateur fluide.",
+                            "tags": ["API", "REST", "Développement de Logiciels", "Oracal"]
+                        },
+                        "ko": {
+                            "title": "GUVNL",
+                            "text": "<b>GUVNL</b>의 <b>LT Billing</b> 소프트웨어를 유지 보수하며, 새로운 기능을 추가하고 성능을 <b>40%</b> 이상 향상시키며, 버그를 수정하여 원활한 사용자 경험을 보장합니다.",
+                            "tags": ["API", "REST", "소프트웨어 개발", "Oracal"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/healthray.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-apple", "href": "https://apps.apple.com/in/app/healthray-dr-for-doctors/id1513592834"},
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store/apps/details?id=com.healthray.doctor&hl=en_IN"}
+                    ],
+
+                    "media": {
+                        "screenshots": {
+                            "aspectRatio": "9:16",
+                            "images": [
+                                "images/pictures/project-screenshot-1.webp",    
+                                "images/pictures/project-screenshot-2.webp",
+                                "images/pictures/project-screenshot-3.webp",
+                                "images/pictures/project-screenshot-4.webp",
+                                "images/pictures/project-screenshot-5.webp"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Healthray for Doctors",
+                            "text": "<b>Healthray DR</b> empowers thousands of doctors to manage their practice, boost income, enhance credibility, and connect with patients worldwide, expanding their reach and maximizing efficiency.",
+                            "tags": ["Android", "Dynamic Application", "Healthcare"]
+                        },
+                        "es": {
+                            "title": "Healthray para Médicos",
+                            "text": "<b>Healthray DR</b> ayuda a miles de médicos a gestionar su práctica, aumentar sus ingresos, mejorar su credibilidad y conectarse con pacientes en todo el mundo, ampliando su alcance y optimizando su tiempo.",
+                            "tags": ["Android", "Aplicación Dinámica", "Salud"]
+                        },
+                        "fr": {
+                            "title": "Healthray pour Médecins",
+                            "text": "<b>Healthray DR</b> permet à des milliers de médecins de gérer leur pratique, d’augmenter leurs revenus, d’améliorer leur crédibilité et de se connecter avec des patients du monde entier, élargissant ainsi leur portée et optimisant leur efficacité.",
+                            "tags": ["Android", "Application Dynamique", "Santé"]
+                        },
+                        "ko": {
+                            "title": "의사를 위한 Healthray",
+                            "text": "<b>Healthray DR</b>는 수천 명의 의사가 진료를 관리하고, 수입을 늘리며, 신뢰성을 높이고, 전 세계 환자와 연결할 수 있도록 도와줍니다. 이를 통해 더 넓은 범위로 진료를 확장하고 시간을 효율적으로 활용할 수 있습니다.",
+                            "tags": ["Android", "동적 애플리케이션", "의료"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/infyrealty.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://infyrealty.com"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "InfyRealty",
+                            "text": "A real estate platform built with <b>React</b> and <b>Node.js</b>, offering a seamless experience for buyers, sellers, and agents to list, search, and manage properties with ease.",
+                            "tags": ["React", "Organization", "Real-Estate"]
+                        },
+                        "es": {
+                            "title": "InfyRealty",
+                            "text": "Una plataforma inmobiliaria desarrollada con <b>React</b> y <b>Node.js</b>, que brinda una experiencia fluida para compradores, vendedores y agentes, permitiéndoles listar, buscar y gestionar propiedades con facilidad.",
+                            "tags": ["React", "Organización", "Bienes Raíces"]
+                        },
+                        "fr": {
+                            "title": "InfyRealty",
+                            "text": "Une plateforme immobilière développée avec <b>React</b> et <b>Node.js</b>, offrant une expérience fluide aux acheteurs, vendeurs et agents pour répertorier, rechercher et gérer des propriétés facilement.",
+                            "tags": ["React", "Organisation", "Immobilier"]
+                        },
+                        "ko": {
+                            "title": "InfyRealty",
+                            "text": "<b>React</b> 및 <b>Node.js</b>로 개발된 부동산 플랫폼으로, 구매자, 판매자 및 중개인이 부동산을 손쉽게 등록, 검색 및 관리할 수 있도록 원활한 경험을 제공합니다.",
+                            "tags": ["React", "조직", "부동산"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/printbind.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "9:16",
+                            "images": [
+                                "images/pictures/printbind_one.png",
+                                "images/pictures/printbind_two.png",
+                                "images/pictures/printbind_three.png",
+                                "images/pictures/printbind_four.png",
+                                "images/pictures/printbind_five.png",
+                                "images/pictures/printbind_six.png",
+                                "images/pictures/printbind_seven.png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "PrintBind",
+                            "text": "A printing and binding app built with <b>React Native</b> and <b>Spring Boot</b>, offering a wide range of printing services, binding options, and customization features for users.",
+                            "tags": ["React Native", "E-Commerce", "Spring Boot"]
+                        },
+                        "es": {
+                            "title": "PrintBind",
+                            "text": "Una aplicación de impresión y encuadernación desarrollada con <b>React Native</b> y <b>Spring Boot</b>, que ofrece una amplia gama de servicios de impresión, opciones de encuadernación y funciones de personalización para los usuarios.",
+                            "tags": ["React Native", "E-Commerce", "Spring Boot"]
+                        },
+                        "fr": {
+                            "title": "PrintBind",
+                            "text": "Une application d'impression et de reliure développée avec <b>React Native</b> et <b>Spring Boot</b>, offrant une large gamme de services d'impression, d'options de reliure et de fonctionnalités de personnalisation pour les utilisateurs.",
+                            "tags": ["React Native", "E-Commerce", "Spring Boot"]
+                        },
+                        "ko": {
+                            "title": "PrintBind",
+                            "text": "<b>React Native</b> 및 <b>Spring Boot</b>로 개발된 인쇄 및 제본 애플리케이션으로, 다양한 인쇄 서비스, 제본 옵션 및 사용자 맞춤 기능을 제공합니다.",
+                            "tags": ["React Native", "E-Commerce", "Spring Boot"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/onlinetoken.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://onlinetoken.co/"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "OnlineToken",
+                            "text": "A token management system built with <b>React</b> and <b>Spring</b>, offering a seamless experience for businesses to manage customer queues and appointments efficiently.",
+                            "tags": ["Queue Management", "Appointment Scheduling", "Business Automation"]
+                        },
+                        "es": {
+                            "title": "OnlineToken",
+                            "text": "Un sistema de gestión de turnos desarrollado con <b>React</b> y <b>Spring</b>, que permite a las empresas gestionar eficientemente las filas de clientes y las citas.",
+                            "tags": ["Gestión de Turnos", "Programación de Citas", "Automatización Empresarial"]
+                        },
+                        "fr": {
+                            "title": "OnlineToken",
+                            "text": "Un système de gestion de tickets conçu avec <b>React</b> et <b>Spring</b>, offrant une expérience fluide aux entreprises pour gérer les files d'attente et les rendez-vous efficacement.",
+                            "tags": ["Gestion des Files d'Attente", "Planification des Rendez-vous", "Automatisation d'Entreprise"]
+                        },
+                        "ko": {
+                            "title": "OnlineToken",
+                            "text": "<b>React</b> 및 <b>Spring</b>으로 구축된 토큰 관리 시스템으로, 기업이 고객 대기열 및 예약을 효율적으로 관리할 수 있도록 지원합니다.",
+                            "tags": ["대기열 관리", "예약 일정 관리", "비즈니스 자동화"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/heichal_dovid.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-google-play", "href": "https://play.google.com/store/apps/details?id=aexyn.beis.medrash&hl=en_IN"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Beis Medrash Heichal Dovid",
+                            "text": "A comprehensive learning app for the <b>Beis Medrash Heichal Dovid</b> community, offering a wide range of features, resources, and tools for students and teachers.",
+                            "tags": ["Android", "Education", "Community"]
+                        },
+                        "es": {
+                            "title": "Beis Medrash Heichal Dovid",
+                            "text": "Una aplicación de aprendizaje integral para la comunidad de <b>Beis Medrash Heichal Dovid</b>, que ofrece una amplia gama de funciones, recursos y herramientas para estudiantes y profesores.",
+                            "tags": ["Android", "Educación", "Comunidad"]
+                        },
+                        "fr": {
+                            "title": "Beis Medrash Heichal Dovid",
+                            "text": "Une application d'apprentissage complète pour la communauté <b>Beis Medrash Heichal Dovid</b>, offrant un large éventail de fonctionnalités, de ressources et d'outils pour les étudiants et les enseignants.",
+                            "tags": ["Android", "Éducation", "Communauté"]
+                        },
+                        "ko": {
+                            "title": "Beis Medrash Heichal Dovid",
+                            "text": "<b>Beis Medrash Heichal Dovid</b> 커뮤니티를 위한 종합 학습 앱으로, 학생과 교사를 위한 다양한 기능, 자료 및 도구를 제공합니다.",
+                            "tags": ["Android", "교육", "커뮤니티"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

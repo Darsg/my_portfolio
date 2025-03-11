@@ -1,0 +1,113 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        },
+
+        "es": {
+            "title": "Experiencia",
+            "title_long_prefix": "Resumen de mi",
+            "title_long": "Experiencia **Laboral**"
+        },
+
+        "fr": {
+            "title": "Expérience",
+            "title_long_prefix": "Résumé de mon",
+            "title_long": "Parcours **Professionel**"
+        },
+
+        "ko": {
+            "title": "경험",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**직업적** 경험"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/efontos.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "07/01/2021",
+                        "end": "12/31/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Software** Developer",
+                            "info": "eFontos",
+                            "text": "Designed and managed scalable backend systems for diverse clients, enhancing database efficiency and implementing RESTful APIs to boost application performance.",
+                            "tags": ["Java", "Kotlin", "Firebase", "REST", "Android Application Development", "Room Database", "React", "Node.js"]
+                        },
+                        "es": {
+                            "title": "Desarrollador de **Software**",
+                            "info": "eFontos",
+                            "text": "Diseñé y administré sistemas backend escalables para diversos clientes, mejorando la eficiencia de la base de datos e implementando APIs RESTful para optimizar el rendimiento de las aplicaciones.",
+                            "tags": ["Java", "Kotlin", "Firebase", "REST", "Desarrollo de Aplicaciones Android", "Base de Datos Room", "React", "Node.js"]
+                        },
+                        "fr": {
+                            "title": "Développeur **Logiciel**",
+                            "info": "eFontos",
+                            "text": "Conçu et géré des systèmes backend évolutifs pour divers clients, optimisant l'efficacité des bases de données et implémentant des APIs RESTful pour améliorer la performance des applications.",
+                            "tags": ["Java", "Kotlin", "Firebase", "REST", "Développement d'Applications Android", "Base de Données Room", "React", "Node.js"]
+                        },
+                        "ko": {
+                            "title": "**소프트웨어** 개발자",
+                            "info": "eFontos",
+                            "text": "다양한 클라이언트를 위해 확장 가능한 백엔드 시스템을 설계하고 관리하며, 데이터베이스 효율성을 향상시키고 RESTful API를 구현하여 애플리케이션 성능을 최적화했습니다.",
+                            "tags": ["Java", "Kotlin", "Firebase", "REST", "안드로이드 애플리케이션 개발", "Room 데이터베이스", "React", "Node.js"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/bigscal.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2024",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Software** Developer",
+                            "info": "BigScal",
+                            "text": "Worked alongside a team of developers to design, develop, and maintain scalable software solutions for client projects, ensuring seamless integration between frontend and backend systems.",
+                            "tags": ["JavaScript", "React", "Node.js", "Android", "Java", "Kotlin", "REST"]
+                        },
+                        "es": {
+                            "title": "Desarrollador de **Software**",
+                            "info": "BigScal",
+                            "text": "Colaboré con un equipo de desarrolladores para diseñar, desarrollar y mantener soluciones de software escalables para proyectos de clientes, asegurando una integración fluida entre los sistemas frontend y backend.",
+                            "tags": null
+                        },
+                        "fr": {
+                            "title": "Développeur **Logiciel**",
+                            "info": "BigScal",
+                            "text": "J'ai collaboré avec une équipe de développeurs pour concevoir, développer et maintenir des solutions logicielles évolutives pour des projets clients, garantissant une intégration fluide entre les systèmes frontend et backend.",
+                            "tags": null
+                        },
+                        "ko": {
+                            "title": "**소프트웨어** 개발자",
+                            "info": "BigScal",
+                            "text": "개발자 팀과 협력하여 고객 프로젝트를 위한 확장 가능한 소프트웨어 솔루션을 설계, 개발 및 유지보수하며 프론트엔드와 백엔드 시스템 간의 원활한 통합을 보장했습니다.",
+                            "tags": null
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

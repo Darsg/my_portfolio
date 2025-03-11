@@ -1,0 +1,152 @@
+{
+    "locales": {
+        "en": {
+            "title": "Education",
+            "title_long_prefix": "This is my",
+            "title_long": "**Educational** Background"
+        },
+
+        "es": {
+            "title": "Educación",
+            "title_long_prefix": "Esta es mi",
+            "title_long": "**Formación** Educativa"
+        },
+
+        "fr": {
+            "title": "Éducation",
+            "title_long_prefix": "C'est mon",
+            "title_long": "**Contexte** Éducatif"
+        },
+
+        "ko": {
+            "title": "교육",
+            "title_long_prefix": "이것은 내",
+            "title_long": "**교육적** 배경"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "academic",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/gurukul.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "06/01/2015",
+                        "end": "04/01/2018"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Secondary** Education",
+                            "info": "SSGVS",
+                            "text": "Completed secondary education with a focus on science and mathematics. Participated in various extracurricular activities, including coding competitions and science fairs.",
+                            "tags": ["JAVA", "Excel", "HTML"]
+                        },
+                        "es": {
+                            "title": "**Educación Secundaria**",
+                            "info": "SSGVS",
+                            "text": "Completé mi educación secundaria con un enfoque en ciencias y matemáticas. Participé en diversas actividades extracurriculares, incluyendo competiciones de programación y ferias de ciencias.",
+                            "tags": ["JAVA", "Excel", "HTML"]
+                        },
+                        "fr": {
+                            "title": "**Éducation Secondaire**",
+                            "info": "SSGVS",
+                            "text": "J'ai terminé mon éducation secondaire avec un accent sur les sciences et les mathématiques. J'ai participé à diverses activités parascolaires, y compris des concours de programmation et des foires scientifiques.",
+                            "tags": ["JAVA", "Excel", "HTML"]
+                        },
+                        "ko": {
+                            "title": "**중등 교육**",
+                            "info": "SSGVS",
+                            "text": "과학과 수학에 중점을 두고 중등 교육을 마쳤습니다. 프로그래밍 대회 및 과학 박람회와 같은 다양한 과외 활동에 참여했습니다.",
+                            "tags": ["JAVA", "Excel", "HTML"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/gurukul.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "06/01/2018",
+                        "end": "02/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Higher** Education",
+                            "info": "SSGVS",
+                            "text": "Pursued higher education with a focus on computer science and mathematics. Engaged in various projects and research initiatives, including developing software applications.",
+                            "tags": ["JavaScript", "CSS"]
+                        },
+                        "es": {
+                            "title": "**Educación Superior**",
+                            "info": "SSGVS",
+                            "text": "Cursé estudios superiores con un enfoque en informática y matemáticas. Participé en diversos proyectos e iniciativas de investigación, incluyendo el desarrollo de aplicaciones de software.",
+                            "tags": ["JavaScript", "CSS"]
+                        },
+                        "fr": {
+                            "title": "**Enseignement Supérieur**",
+                            "info": "SSGVS",
+                            "text": "J'ai poursuivi des études supérieures avec un accent sur l'informatique et les mathématiques. J'ai participé à divers projets et initiatives de recherche, y compris le développement d'applications logicielles.",
+                            "tags": ["JavaScript", "CSS"]
+                        },
+                        "ko": {
+                            "title": "**고등 교육**",
+                            "info": "SSGVS",
+                            "text": "컴퓨터 과학과 수학에 중점을 두고 고등 교육을 이수했습니다. 소프트웨어 애플리케이션 개발을 포함한 다양한 프로젝트와 연구 활동에 참여했습니다.",
+                            "tags": ["JavaScript", "CSS"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/gtu.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "09/01/2020",
+                        "end": "05/01/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**B. Tech. ( IT )**",
+                            "info": "Gujarat Technological University",
+                            "text": "<p>Pursued a degree in Information Technology at Shantilal Shah Engineering College, focusing on:</p> <ul><li>Computer Vision</li><li>Mobile App Development</li><li>Building SaaS products using Spring Boot and React.js</li></ul> <p class='mt-3'>Actively engaged in cutting-edge research and participated in hackathons to develop innovative solutions.</p>",
+                            "tags": ["Deep Learning", "Computer Vision", "React", "Spring Boot", "Mobile Applicatin Development"]
+                        },
+                        "es": {
+                            "title": "**B. Tech. ( IT )**",
+                            "info": "Universidad Tecnológica de Gujarat",
+                            "text": "<p>Realicé estudios en Tecnología de la Información en Shantilal Shah Engineering College, con un enfoque en:</p> <ul><li>Visión por Computadora</li><li>Desarrollo de Aplicaciones Móviles</li><li>Creación de productos SaaS utilizando Spring Boot y React.js</li></ul> <p class='mt-3'>Participé activamente en investigaciones de vanguardia y en hackatones para desarrollar soluciones innovadoras.</p>",
+                            "tags": ["Aprendizaje Profundo", "Visión por Computadora", "React", "Spring Boot", "Desarrollo de Aplicaciones Móviles"]
+                        },
+                        "fr": {
+                            "title": "**B. Tech. ( IT )**",
+                            "info": "Université Technologique du Gujarat",
+                            "text": "<p>J'ai suivi une formation en Technologie de l'Information à Shantilal Shah Engineering College, avec un accent sur :</p> <ul><li>Vision par ordinateur</li><li>Développement d'applications mobiles</li><li>Création de produits SaaS en utilisant Spring Boot et React.js</li></ul> <p class='mt-3'>Engagé dans des recherches de pointe et participation à des hackathons pour développer des solutions innovantes.</p>",
+                            "tags": ["Apprentissage Profond", "Vision par Ordinateur", "React", "Spring Boot", "Développement d'Applications Mobiles"]
+                        },
+                        "ko": {
+                            "title": "**B. Tech. ( IT )**",
+                            "info": "구자라트 공과대학교",
+                            "text": "<p>샨틸랄 샤 엔지니어링 대학에서 정보기술(IT)을 전공하며 다음 분야를 집중적으로 연구했습니다:</p> <ul><li>컴퓨터 비전</li><li>모바일 앱 개발</li><li>Spring Boot 및 React.js를 활용한 SaaS 제품 개발</li></ul> <p class='mt-3'>최첨단 연구에 적극적으로 참여하고, 해커톤에서 혁신적인 솔루션을 개발했습니다.</p>",
+                            "tags": ["딥러닝", "컴퓨터 비전", "React", "Spring Boot", "모바일 애플리케이션 개발"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
