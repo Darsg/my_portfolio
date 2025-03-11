@@ -1,4 +1,4 @@
-import "/src/styles/app.scss"
+import "../../src/styles/app.scss"
 import React, {useEffect, useState} from 'react'
 import {useData} from "/src/providers/DataProvider.jsx"
 import Portfolio from "/src/components/Portfolio.jsx"
