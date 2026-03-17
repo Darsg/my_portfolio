@@ -34,6 +34,15 @@
 
             "categories": [
                 {
+                    "id": "ai_tools",
+                    "locales": {
+                        "en": {"singular": "AI / MCP", "plural": "AI / MCP"},
+                        "es": {"singular": "IA / MCP", "plural": "IA / MCP"},
+                        "fr": {"singular": "IA / MCP", "plural": "IA / MCP"},
+                        "ko": {"singular": "AI / MCP", "plural": "AI / MCP"}
+                    }
+                },
+                {
                     "id": "apps",
                     "locales": {
                         "en": {"singular": "App", "plural": "Apps"},
@@ -64,6 +73,82 @@
 
             "items": [
                 {
+                    "categoryId": "ai_tools",
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-robot",
+                        "faColors": {"bg": "#7C3AED", "fill": "#EEE"}
+                    },
+
+                    "links": [],
+
+                    "media": {
+                        "youtubeVideo": null
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Anzer – AI Procurement Platform",
+                            "text": "An <b>RFQ-based procurement platform</b> with automated supplier pricing, order placement, and tracking. Built with <b>Python</b> and <b>Generative AI</b> to streamline workflows, reducing costs by <b>20%</b> and improving delivery efficiency by <b>25%</b>.",
+                            "tags": ["Python", "Generative AI", "MCP Server", "Workflow Automation", "Next.js"]
+                        },
+                        "es": {
+                            "title": "Anzer – Plataforma de Adquisiciones con IA",
+                            "text": "Una <b>plataforma de adquisiciones basada en RFQ</b> con precios automatizados de proveedores, gestión de pedidos y seguimiento. Construida con <b>Python</b> e <b>IA Generativa</b>, reduciendo costos en un <b>20%</b> y mejorando la eficiencia de entrega en un <b>25%</b>.",
+                            "tags": ["Python", "IA Generativa", "Servidor MCP", "Automatización", "Next.js"]
+                        },
+                        "fr": {
+                            "title": "Anzer – Plateforme d'Approvisionnement par IA",
+                            "text": "Une <b>plateforme d'approvisionnement basée sur les RFQ</b> avec tarification automatisée, gestion des commandes et suivi. Construite avec <b>Python</b> et <b>IA Générative</b>, réduisant les coûts de <b>20%</b> et améliorant l'efficacité de livraison de <b>25%</b>.",
+                            "tags": ["Python", "IA Générative", "Serveur MCP", "Automatisation", "Next.js"]
+                        },
+                        "ko": {
+                            "title": "Anzer – AI 조달 플랫폼",
+                            "text": "자동화된 공급업체 가격 책정, 주문 배치 및 추적 기능을 갖춘 <b>RFQ 기반 조달 플랫폼</b>. <b>Python</b>과 <b>생성형 AI</b>로 구축하여 비용 <b>20%</b> 절감 및 배송 효율 <b>25%</b> 향상.",
+                            "tags": ["Python", "생성형 AI", "MCP 서버", "워크플로우 자동화", "Next.js"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "ai_tools",
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-hospital",
+                        "faColors": {"bg": "#10A37F", "fill": "#EEE"}
+                    },
+
+                    "links": [],
+
+                    "media": {
+                        "youtubeVideo": null
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Xeroque – Healthcare Queue Management",
+                            "text": "A <b>healthcare appointment and queue management system</b> with <b>WhatsApp (Meta) integration</b> and real-time token tracking. Built with AI-powered workflow creation for optimized patient flow and automated notifications.",
+                            "tags": ["Python", "WhatsApp API", "AI Workflow", "Real-time Systems", "Node.js"]
+                        },
+                        "es": {
+                            "title": "Xeroque – Gestión de Colas Médicas",
+                            "text": "Un <b>sistema de gestión de citas y colas médicas</b> con <b>integración de WhatsApp (Meta)</b> y seguimiento de tokens en tiempo real. Construido con creación de flujos de trabajo impulsados por IA.",
+                            "tags": ["Python", "WhatsApp API", "Flujo de IA", "Sistemas en Tiempo Real", "Node.js"]
+                        },
+                        "fr": {
+                            "title": "Xeroque – Gestion de Files de Santé",
+                            "text": "Un <b>système de gestion de rendez-vous et de files d'attente</b> avec <b>intégration WhatsApp (Meta)</b> et suivi de tokens en temps réel. Construit avec des workflows IA pour un flux de patients optimisé.",
+                            "tags": ["Python", "WhatsApp API", "Workflow IA", "Systèmes Temps Réel", "Node.js"]
+                        },
+                        "ko": {
+                            "title": "Xeroque – 의료 대기열 관리",
+                            "text": "<b>WhatsApp (Meta) 통합</b> 및 실시간 토큰 추적 기능을 갖춘 <b>의료 예약 및 대기열 관리 시스템</b>. AI 기반 워크플로우 생성으로 환자 흐름 최적화 및 자동 알림.",
+                            "tags": ["Python", "WhatsApp API", "AI 워크플로우", "실시간 시스템", "Node.js"]
+                        }
+                    }
+                },
+
+                {
                     "categoryId": "utilities",
                     "icon": {
                         "img": "images/pictures/guvnl.png",
@@ -93,23 +178,23 @@
                     "locales": {
                         "en": {
                             "title": "GUVNL",
-                            "text": "Maintaining the <b>LT Billing</b> software for <b>GUVNL</b>, implementing new features, enhancing performance by over <b>40%</b>, and resolving bugs to ensure a seamless user experience.",
-                            "tags": ["API", "REST", "Software Development", "Oracal"]
+                            "text": "Maintaining the <b>LT Billing</b> software for <b>GUVNL</b>, implementing new features, enhancing performance by over <b>40%</b>, and resolving bugs to ensure a seamless user experience. Handles <b>₹12+ lakh daily billing</b> and payment collections.",
+                            "tags": ["API", "REST", "Software Development", "Oracle"]
                         },
                         "es": {
                             "title": "GUVNL",
-                            "text": "Manteniendo el software <b>LT Billing</b> para <b>GUVNL</b>, implementando nuevas funciones, mejorando el rendimiento en más de un <b>40%</b> y corrigiendo errores para garantizar una experiencia de usuario fluida.",
-                            "tags": ["API", "REST", "Desarrollo de Software", "Oracal"]
+                            "text": "Manteniendo el software <b>LT Billing</b> para <b>GUVNL</b>, implementando nuevas funciones, mejorando el rendimiento en más de un <b>40%</b> y gestionando <b>₹12+ lakh de facturación diaria</b>.",
+                            "tags": ["API", "REST", "Desarrollo de Software", "Oracle"]
                         },
                         "fr": {
                             "title": "GUVNL",
-                            "text": "Maintien du logiciel <b>LT Billing</b> pour <b>GUVNL</b>, avec l'ajout de nouvelles fonctionnalités, une amélioration des performances de plus de <b>40%</b> et la correction de bugs pour assurer une expérience utilisateur fluide.",
-                            "tags": ["API", "REST", "Développement de Logiciels", "Oracal"]
+                            "text": "Maintien du logiciel <b>LT Billing</b> pour <b>GUVNL</b>, avec l'ajout de nouvelles fonctionnalités, une amélioration des performances de plus de <b>40%</b> et gestion de <b>₹12+ lakh de facturation quotidienne</b>.",
+                            "tags": ["API", "REST", "Développement de Logiciels", "Oracle"]
                         },
                         "ko": {
                             "title": "GUVNL",
-                            "text": "<b>GUVNL</b>의 <b>LT Billing</b> 소프트웨어를 유지 보수하며, 새로운 기능을 추가하고 성능을 <b>40%</b> 이상 향상시키며, 버그를 수정하여 원활한 사용자 경험을 보장합니다.",
-                            "tags": ["API", "REST", "소프트웨어 개발", "Oracal"]
+                            "text": "<b>GUVNL</b>의 <b>LT Billing</b> 소프트웨어를 유지 보수하며, 새로운 기능을 추가하고 성능을 <b>40%</b> 이상 향상시키며, 매일 <b>₹12+ lakh 청구</b> 및 결제를 처리합니다.",
+                            "tags": ["API", "REST", "소프트웨어 개발", "Oracle"]
                         }
                     }
                 },
@@ -143,23 +228,23 @@
                     "locales": {
                         "en": {
                             "title": "Healthray for Doctors",
-                            "text": "<b>Healthray DR</b> empowers thousands of doctors to manage their practice, boost income, enhance credibility, and connect with patients worldwide, expanding their reach and maximizing efficiency.",
-                            "tags": ["Android", "Dynamic Application", "Healthcare"]
+                            "text": "<b>Healthray DR</b> empowers thousands of doctors to manage their practice with modules for <b>IPD, OPD, prescriptions, HRMS, bed availability, appointments</b>, and reports. Boosted performance by <b>20%</b>.",
+                            "tags": ["Android", "Healthcare", "Kotlin", "Java"]
                         },
                         "es": {
                             "title": "Healthray para Médicos",
-                            "text": "<b>Healthray DR</b> ayuda a miles de médicos a gestionar su práctica, aumentar sus ingresos, mejorar su credibilidad y conectarse con pacientes en todo el mundo, ampliando su alcance y optimizando su tiempo.",
-                            "tags": ["Android", "Aplicación Dinámica", "Salud"]
+                            "text": "<b>Healthray DR</b> ayuda a miles de médicos a gestionar su práctica con módulos de <b>IPD, OPD, prescripciones, HRMS, disponibilidad de camas, citas</b> y reportes. Rendimiento mejorado en un <b>20%</b>.",
+                            "tags": ["Android", "Salud", "Kotlin", "Java"]
                         },
                         "fr": {
                             "title": "Healthray pour Médecins",
-                            "text": "<b>Healthray DR</b> permet à des milliers de médecins de gérer leur pratique, d’augmenter leurs revenus, d’améliorer leur crédibilité et de se connecter avec des patients du monde entier, élargissant ainsi leur portée et optimisant leur efficacité.",
-                            "tags": ["Android", "Application Dynamique", "Santé"]
+                            "text": "<b>Healthray DR</b> permet à des milliers de médecins de gérer leur pratique avec des modules <b>IPD, OPD, prescriptions, HRMS, disponibilité des lits, rendez-vous</b> et rapports. Performance améliorée de <b>20%</b>.",
+                            "tags": ["Android", "Santé", "Kotlin", "Java"]
                         },
                         "ko": {
                             "title": "의사를 위한 Healthray",
-                            "text": "<b>Healthray DR</b>는 수천 명의 의사가 진료를 관리하고, 수입을 늘리며, 신뢰성을 높이고, 전 세계 환자와 연결할 수 있도록 도와줍니다. 이를 통해 더 넓은 범위로 진료를 확장하고 시간을 효율적으로 활용할 수 있습니다.",
-                            "tags": ["Android", "동적 애플리케이션", "의료"]
+                            "text": "<b>Healthray DR</b>는 수천 명의 의사가 <b>IPD, OPD, 처방전, HRMS, 병상 가용성, 예약</b> 및 보고서 모듈로 진료를 관리할 수 있도록 합니다. 성능 <b>20%</b> 향상.",
+                            "tags": ["Android", "의료", "Kotlin", "Java"]
                         }
                     }
                 },
@@ -188,17 +273,17 @@
                         },
                         "es": {
                             "title": "InfyRealty",
-                            "text": "Una plataforma inmobiliaria desarrollada con <b>React</b> y <b>Node.js</b>, que brinda una experiencia fluida para compradores, vendedores y agentes, permitiéndoles listar, buscar y gestionar propiedades con facilidad.",
+                            "text": "Una plataforma inmobiliaria desarrollada con <b>React</b> y <b>Node.js</b>, que brinda una experiencia fluida para compradores, vendedores y agentes.",
                             "tags": ["React", "Organización", "Bienes Raíces"]
                         },
                         "fr": {
                             "title": "InfyRealty",
-                            "text": "Une plateforme immobilière développée avec <b>React</b> et <b>Node.js</b>, offrant une expérience fluide aux acheteurs, vendeurs et agents pour répertorier, rechercher et gérer des propriétés facilement.",
+                            "text": "Une plateforme immobilière développée avec <b>React</b> et <b>Node.js</b>, offrant une expérience fluide aux acheteurs, vendeurs et agents.",
                             "tags": ["React", "Organisation", "Immobilier"]
                         },
                         "ko": {
                             "title": "InfyRealty",
-                            "text": "<b>React</b> 및 <b>Node.js</b>로 개발된 부동산 플랫폼으로, 구매자, 판매자 및 중개인이 부동산을 손쉽게 등록, 검색 및 관리할 수 있도록 원활한 경험을 제공합니다.",
+                            "text": "<b>React</b> 및 <b>Node.js</b>로 개발된 부동산 플랫폼으로, 구매자, 판매자 및 중개인이 부동산을 손쉽게 관리할 수 있습니다.",
                             "tags": ["React", "조직", "부동산"]
                         }
                     }
@@ -239,17 +324,17 @@
                         },
                         "es": {
                             "title": "PrintBind",
-                            "text": "Una aplicación de impresión y encuadernación desarrollada con <b>React Native</b> y <b>Spring Boot</b>, que ofrece una amplia gama de servicios de impresión, opciones de encuadernación y funciones de personalización para los usuarios.",
+                            "text": "Una aplicación de impresión y encuadernación desarrollada con <b>React Native</b> y <b>Spring Boot</b>.",
                             "tags": ["React Native", "E-Commerce", "Spring Boot"]
                         },
                         "fr": {
                             "title": "PrintBind",
-                            "text": "Une application d'impression et de reliure développée avec <b>React Native</b> et <b>Spring Boot</b>, offrant une large gamme de services d'impression, d'options de reliure et de fonctionnalités de personnalisation pour les utilisateurs.",
+                            "text": "Une application d'impression et de reliure développée avec <b>React Native</b> et <b>Spring Boot</b>.",
                             "tags": ["React Native", "E-Commerce", "Spring Boot"]
                         },
                         "ko": {
                             "title": "PrintBind",
-                            "text": "<b>React Native</b> 및 <b>Spring Boot</b>로 개발된 인쇄 및 제본 애플리케이션으로, 다양한 인쇄 서비스, 제본 옵션 및 사용자 맞춤 기능을 제공합니다.",
+                            "text": "<b>React Native</b> 및 <b>Spring Boot</b>로 개발된 인쇄 및 제본 애플리케이션.",
                             "tags": ["React Native", "E-Commerce", "Spring Boot"]
                         }
                     }
@@ -283,18 +368,18 @@
                         },
                         "es": {
                             "title": "OnlineToken",
-                            "text": "Un sistema de gestión de turnos desarrollado con <b>React</b> y <b>Spring</b>, que permite a las empresas gestionar eficientemente las filas de clientes y las citas.",
-                            "tags": ["Gestión de Turnos", "Programación de Citas", "Automatización Empresarial"]
+                            "text": "Un sistema de gestión de turnos desarrollado con <b>React</b> y <b>Spring</b> para gestión eficiente de filas y citas.",
+                            "tags": ["Gestión de Turnos", "Programación de Citas", "Automatización"]
                         },
                         "fr": {
                             "title": "OnlineToken",
-                            "text": "Un système de gestion de tickets conçu avec <b>React</b> et <b>Spring</b>, offrant une expérience fluide aux entreprises pour gérer les files d'attente et les rendez-vous efficacement.",
-                            "tags": ["Gestion des Files d'Attente", "Planification des Rendez-vous", "Automatisation d'Entreprise"]
+                            "text": "Un système de gestion de tickets conçu avec <b>React</b> et <b>Spring</b> pour gestion efficace des files d'attente et rendez-vous.",
+                            "tags": ["Gestion des Files d'Attente", "Planification", "Automatisation"]
                         },
                         "ko": {
                             "title": "OnlineToken",
-                            "text": "<b>React</b> 및 <b>Spring</b>으로 구축된 토큰 관리 시스템으로, 기업이 고객 대기열 및 예약을 효율적으로 관리할 수 있도록 지원합니다.",
-                            "tags": ["대기열 관리", "예약 일정 관리", "비즈니스 자동화"]
+                            "text": "<b>React</b> 및 <b>Spring</b>으로 구축된 토큰 관리 시스템으로, 기업이 대기열 및 예약을 효율적으로 관리할 수 있습니다.",
+                            "tags": ["대기열 관리", "예약 관리", "비즈니스 자동화"]
                         }
                     }
                 },
@@ -327,17 +412,17 @@
                         },
                         "es": {
                             "title": "Beis Medrash Heichal Dovid",
-                            "text": "Una aplicación de aprendizaje integral para la comunidad de <b>Beis Medrash Heichal Dovid</b>, que ofrece una amplia gama de funciones, recursos y herramientas para estudiantes y profesores.",
+                            "text": "Una aplicación de aprendizaje integral para la comunidad de <b>Beis Medrash Heichal Dovid</b>.",
                             "tags": ["Android", "Educación", "Comunidad"]
                         },
                         "fr": {
                             "title": "Beis Medrash Heichal Dovid",
-                            "text": "Une application d'apprentissage complète pour la communauté <b>Beis Medrash Heichal Dovid</b>, offrant un large éventail de fonctionnalités, de ressources et d'outils pour les étudiants et les enseignants.",
+                            "text": "Une application d'apprentissage complète pour la communauté <b>Beis Medrash Heichal Dovid</b>.",
                             "tags": ["Android", "Éducation", "Communauté"]
                         },
                         "ko": {
                             "title": "Beis Medrash Heichal Dovid",
-                            "text": "<b>Beis Medrash Heichal Dovid</b> 커뮤니티를 위한 종합 학습 앱으로, 학생과 교사를 위한 다양한 기능, 자료 및 도구를 제공합니다.",
+                            "text": "<b>Beis Medrash Heichal Dovid</b> 커뮤니티를 위한 종합 학습 앱.",
                             "tags": ["Android", "교육", "커뮤니티"]
                         }
                     }
