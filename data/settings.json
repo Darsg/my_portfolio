@@ -10,16 +10,16 @@
     },
 
     "profile": {
-        "name": "Darsh Dobariya",
-        "stylizedName": "<strong>Darsh **Dobariya**</strong>",
+        "name": "Darshkumar Dobariya",
+        "stylizedName": "<strong>Darshkumar **Dobariya**</strong>",
         "logoUrl": "images/svg/logo.svg",
         "profilePictureUrl": "images/pictures/avatar.jpg",
 
         "locales": {
-            "en": {"role": "Full Stack Developer"},
-            "es": {"role": "Desarrollador Web"},
-            "fr": {"role": "Développeur Web"},
-            "ko": {"role": "웹 개발자"}
+            "en": {"role": "Senior Full-Stack Engineer & AI Developer"},
+            "es": {"role": "Ingeniero Full-Stack Senior & Desarrollador IA"},
+            "fr": {"role": "Ingénieur Full-Stack Senior & Développeur IA"},
+            "ko": {"role": "시니어 풀스택 엔지니어 & AI 개발자"}
         }
     },
 

@@ -4,28 +4,28 @@
             "title": "Welcome!",
             "title_menu": "About me",
             "title_long_prefix": "Hello...",
-            "title_long": "I'm **Darsh Dobariya!**"
+            "title_long": "I'm **Darshkumar Dobariya!**"
         },
 
         "es": {
             "title": "¡Saludos!",
             "title_menu": "Sobre mí",
             "title_long_prefix": "Hola...",
-            "title_long": "Soy **Darsh Dobariya!**"
+            "title_long": "Soy **Darshkumar Dobariya!**"
         },
 
         "fr": {
             "title": "Salut !",
             "title_menu": "À propos",
             "title_long_prefix": "Salut...",
-            "title_long": "Je suis **Darsh Dobariya!**"
+            "title_long": "Je suis **Darshkumar Dobariya!**"
         },
 
         "ko": {
             "title": "환영합니다!",
             "title_menu": "소개",
             "title_long_prefix": "안녕하세요...",
-            "title_long": "저는 **Darsh Dobariya** 입니다!"
+            "title_long": "저는 **Darshkumar Dobariya** 입니다!"
         }
     },
 
@@ -100,10 +100,10 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"text": "<p>I’m a Software Developer with <b>over 4 years</b> of experience, specializing in backend development with frontend work as well. I also have hands-on experience with Java, Kotlin, JavaScript, NodeJS, React, Spring Boot, and React Native in production environments. This diverse background gives me the flexibility to adapt to a wide range of project needs. <br> <br> I look forward to collaborating <b>with you!</b></p>"},
-                        "es": {"text": "<p>Español: Soy un Desarrollador de Software con <b>más de 4 años</b> de experiencia, especializado en desarrollo backend con trabajo en frontend también. También tengo experiencia práctica con Java, Kotlin, JavaScript, NodeJS, React, Spring Boot y React Native en entornos de producción. Esta experiencia diversa me brinda la flexibilidad para adaptarme a una amplia variedad de proyectos. <br><br>  ¡Espero colaborar <b>contigo</b>!</p>"},
-                        "fr": {"text": "<p>Français: Je suis un Développeur de Logiciels avec <b>plus de 4 ans</b> d'expérience, spécialisé dans le développement backend avec du travail en frontend également. J'ai une expérience pratique avec Java, Kotlin, JavaScript, NodeJS, React, Spring Boot et React Native dans des environnements de production. Ce parcours diversifié me permet de m'adapter à une grande variété de projets. <br><br>  J'ai hâte de collaborer <b>avec vous</b> !</p>"},
-                        "ko": {"text": "<p>한국어: 저는 <b>4년 이상의</b> 경험을 가진 소프트웨어 개발자로, 백엔드 개발을 전문으로 하면서 프론트엔드 작업도 수행하고 있습니다. 또한 Java, Kotlin, JavaScript, NodeJS, React, Spring Boot, React Native를 프로덕션 환경에서 직접 다뤄본 경험이 있습니다. 이러한 다양한 경험을 통해 다양한 프로젝트 요구 사항에 유연하게 적응할 수 있습니다. <br><br>  함께 협업할 수 있기를 기대합니다! <b>감사합니다!</b></p>"}
+                        "en": {"text": "<p>I'm a <b>Senior Full-Stack Software Engineer</b> with <b>7+ years</b> of experience building scalable Android and web applications using Kotlin, React, Next.js, and Node.js. I specialize in <b>Python</b>, <b>Generative AI</b>, <b>MCP Server development</b>, and <b>AI workflow creation</b>. <br><br>I have proven expertise in delivering secure, high-performance solutions across <b>healthcare, government, and real-time systems</b>. From building intelligent AI tools and custom MCP servers to crafting production-grade applications — I bring deep technical skills paired with creative problem-solving.<br><br> I look forward to collaborating <b>with you!</b></p>"},
+                        "es": {"text": "<p>Soy un <b>Ingeniero de Software Full-Stack Senior</b> con <b>más de 7 años</b> de experiencia en la creación de aplicaciones Android y web escalables usando Kotlin, React, Next.js y Node.js. Me especializo en <b>Python</b>, <b>IA Generativa</b>, <b>desarrollo de servidores MCP</b> y <b>creación de flujos de trabajo con IA</b>. <br><br>Tengo experiencia comprobada en la entrega de soluciones seguras y de alto rendimiento en <b>salud, gobierno y sistemas en tiempo real</b>.<br><br> ¡Espero colaborar <b>contigo</b>!</p>"},
+                        "fr": {"text": "<p>Je suis un <b>Ingénieur Logiciel Full-Stack Senior</b> avec <b>plus de 7 ans</b> d'expérience dans le développement d'applications Android et web évolutives avec Kotlin, React, Next.js et Node.js. Je me spécialise en <b>Python</b>, <b>IA Générative</b>, <b>développement de serveurs MCP</b> et <b>création de workflows IA</b>. <br><br>Expertise prouvée dans la livraison de solutions sécurisées et performantes dans les domaines de la <b>santé, du gouvernement et des systèmes en temps réel</b>.<br><br> J'ai hâte de collaborer <b>avec vous</b> !</p>"},
+                        "ko": {"text": "<p>저는 Kotlin, React, Next.js, Node.js를 사용하여 확장 가능한 Android 및 웹 애플리케이션을 구축한 <b>7년 이상의</b> 경험을 가진 <b>시니어 풀스택 소프트웨어 엔지니어</b>입니다. <b>Python</b>, <b>생성형 AI</b>, <b>MCP 서버 개발</b>, <b>AI 워크플로우 생성</b>을 전문으로 합니다. <br><br><b>의료, 정부, 실시간 시스템</b> 분야에서 안전하고 고성능 솔루션을 제공한 검증된 전문성을 보유하고 있습니다.<br><br> 함께 협업할 수 있기를 기대합니다! <b>감사합니다!</b></p>"}
                     }
                 }
             ]
@@ -200,13 +200,40 @@
                 {
                     "icon": {
                         "img": null,
+                        "fa": "fa-solid fa-robot",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Generative AI & LLMs",
+                            "info": "Building AI-powered tools, custom MCP servers, and intelligent workflow automations using LLMs."
+                        },
+                        "es": {
+                            "title": "IA Generativa y LLMs",
+                            "info": "Construyendo herramientas impulsadas por IA, servidores MCP personalizados y automatizaciones inteligentes de flujo de trabajo."
+                        },
+                        "fr": {
+                            "title": "IA Générative & LLMs",
+                            "info": "Création d'outils alimentés par l'IA, de serveurs MCP personnalisés et d'automatisations de workflows intelligentes."
+                        },
+                        "ko": {
+                            "title": "생성형 AI & LLM",
+                            "info": "LLM을 사용하여 AI 기반 도구, 맞춤형 MCP 서버 및 지능형 워크플로우 자동화를 구축."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
                         "fa": "fa-solid fa-baseball",
                         "faColors": null
                     },
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "Playing cricket",
+                            "title": "Playing Cricket",
                             "info": "Passionate about cricket, honing skills, strategy, and teamwork for continuous growth."
                         },
                         "es": {
@@ -214,8 +241,8 @@
                             "info": "Apasionado por el críquet, mejorando habilidades, estrategia y trabajo en equipo para un crecimiento continuo."
                         },
                         "fr": {
-                            "title": "Jouer au cricket",
-                            "info": "Passionné de cricket, perfectionnant ses compétences, sa stratégie et son esprit d'équipe pour une amélioration continue."
+                            "title": "Jouer au Cricket",
+                            "info": "Passionné de cricket, perfectionnant ses compétences, sa stratégie et son esprit d'équipe."
                         },
                         "ko": {
                             "title": "크리켓 경기",
@@ -242,7 +269,7 @@
                         },
                         "fr": {
                             "title": "Regarder des films de science-fiction",
-                            "info": "Impatient d'en apprendre davantage sur les nouvelles technologies et idées à travers les films de science-fiction."
+                            "info": "Impatient d'en apprendre davantage sur les nouvelles technologies et idées à travers les films de sci-fi."
                         },
                         "ko": {
                             "title": "SF 영화 감상",
@@ -274,33 +301,6 @@
                         "ko": {
                             "title": "프롬프트를 영상으로 생성",
                             "info": "YouTube용 동영상을 만들고 새로운 편집 기술을 탐구하기."
-                        }
-                    }
-                },
-
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-bitcoin-sign",
-                        "faColors": null
-                    },
-                    "value": null,
-                    "locales": {
-                        "en": {
-                            "title": "Cryptocurrency",
-                            "info": "Exploring the world of cryptocurrency and blockchain technology."
-                        },
-                        "es": {
-                            "title": "Criptomonedas",
-                            "info": "Explorando el mundo de las criptomonedas y la tecnología blockchain."
-                        },
-                        "fr": {
-                            "title": "Cryptomonnaie",
-                            "info": "Explorer le monde des cryptomonnaies et de la technologie blockchain."
-                        },
-                        "ko": {
-                            "title": "암호화폐",
-                            "info": "암호화폐와 블록체인 기술의 세계 탐험하기."
                         }
                     }
                 }
