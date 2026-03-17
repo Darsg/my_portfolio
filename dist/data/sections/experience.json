@@ -40,33 +40,33 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "07/01/2021",
-                        "end": "12/31/2023"
+                        "start": "07/01/2019",
+                        "end": "12/31/2022"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Software** Developer",
-                            "info": "eFontos",
-                            "text": "Designed and managed scalable backend systems for diverse clients, enhancing database efficiency and implementing RESTful APIs to boost application performance.",
-                            "tags": ["Java", "Kotlin", "Firebase", "REST", "Android Application Development", "Room Database", "React", "Node.js"]
+                            "title": "**Android** Developer",
+                            "info": "eFontos Technologies",
+                            "text": "Designed, developed, and maintained multiple Android applications including food delivery, rider, video calling with live chat, cash counter, and utility apps using Java and Kotlin, following clean and scalable architecture. Implemented real-time video calling and live chat features using Agora SDK. Built and optimized backend-driven features using GCP Cloud Functions, Firebase services, and Google Maps APIs.",
+                            "tags": ["Java", "Kotlin", "Firebase", "Agora SDK", "GCP Cloud Functions", "Android", "Google Maps API"]
                         },
                         "es": {
-                            "title": "Desarrollador de **Software**",
-                            "info": "eFontos",
-                            "text": "Diseñé y administré sistemas backend escalables para diversos clientes, mejorando la eficiencia de la base de datos e implementando APIs RESTful para optimizar el rendimiento de las aplicaciones.",
-                            "tags": ["Java", "Kotlin", "Firebase", "REST", "Desarrollo de Aplicaciones Android", "Base de Datos Room", "React", "Node.js"]
+                            "title": "Desarrollador **Android**",
+                            "info": "eFontos Technologies",
+                            "text": "Diseñé, desarrollé y mantuve múltiples aplicaciones Android, incluyendo entrega de comida, videollamadas con chat en vivo, y aplicaciones utilitarias usando Java y Kotlin. Implementé videollamadas en tiempo real con Agora SDK y optimicé funciones backend con GCP Cloud Functions y Firebase.",
+                            "tags": ["Java", "Kotlin", "Firebase", "Agora SDK", "GCP Cloud Functions", "Android", "Google Maps API"]
                         },
                         "fr": {
-                            "title": "Développeur **Logiciel**",
-                            "info": "eFontos",
-                            "text": "Conçu et géré des systèmes backend évolutifs pour divers clients, optimisant l'efficacité des bases de données et implémentant des APIs RESTful pour améliorer la performance des applications.",
-                            "tags": ["Java", "Kotlin", "Firebase", "REST", "Développement d'Applications Android", "Base de Données Room", "React", "Node.js"]
+                            "title": "Développeur **Android**",
+                            "info": "eFontos Technologies",
+                            "text": "Conçu, développé et maintenu plusieurs applications Android, y compris la livraison, les appels vidéo avec chat en direct, et des applications utilitaires avec Java et Kotlin. Implémenté les appels vidéo en temps réel avec Agora SDK et optimisé les fonctionnalités backend avec GCP Cloud Functions et Firebase.",
+                            "tags": ["Java", "Kotlin", "Firebase", "Agora SDK", "GCP Cloud Functions", "Android", "Google Maps API"]
                         },
                         "ko": {
-                            "title": "**소프트웨어** 개발자",
-                            "info": "eFontos",
-                            "text": "다양한 클라이언트를 위해 확장 가능한 백엔드 시스템을 설계하고 관리하며, 데이터베이스 효율성을 향상시키고 RESTful API를 구현하여 애플리케이션 성능을 최적화했습니다.",
-                            "tags": ["Java", "Kotlin", "Firebase", "REST", "안드로이드 애플리케이션 개발", "Room 데이터베이스", "React", "Node.js"]
+                            "title": "**Android** 개발자",
+                            "info": "eFontos Technologies",
+                            "text": "음식 배달, 라이더, 라이브 채팅 화상 통화, 캐시 카운터 등 다양한 Android 애플리케이션을 Java와 Kotlin으로 설계, 개발 및 유지 관리했습니다. Agora SDK를 사용한 실시간 화상 통화 구현 및 GCP Cloud Functions, Firebase 서비스를 통한 백엔드 최적화.",
+                            "tags": ["Java", "Kotlin", "Firebase", "Agora SDK", "GCP Cloud Functions", "Android", "Google Maps API"]
                         }
                     }
                 },
@@ -77,33 +77,70 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "01/01/2024",
+                        "start": "01/01/2022",
+                        "end": "09/30/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Software** Developer",
+                            "info": "Bigscal Technologies Pvt Ltd",
+                            "text": "Managed GUVNL government tender software, handling ₹12+ lakh daily billing, payment collections, and improving app performance by 30%. Developed the Healthray Android healthcare app with modules for IPD, OPD, prescriptions, HRMS, bed availability, appointments, announcements, and reports, boosting performance by 20%. Streamlined workflows, optimized features, and collaborated with cross-functional teams to deliver reliable, scalable, and user-friendly solutions.",
+                            "tags": ["JavaScript", "React", "Node.js", "Android", "Java", "Kotlin", "REST", "Oracle"]
+                        },
+                        "es": {
+                            "title": "Desarrollador de **Software**",
+                            "info": "Bigscal Technologies Pvt Ltd",
+                            "text": "Administré el software de licitaciones gubernamentales GUVNL, gestionando facturación diaria de ₹12+ lakh y mejorando el rendimiento en un 30%. Desarrollé la app de salud Healthray para Android con módulos de IPD, OPD, prescripciones, HRMS, y reportes, mejorando el rendimiento en un 20%.",
+                            "tags": ["JavaScript", "React", "Node.js", "Android", "Java", "Kotlin", "REST", "Oracle"]
+                        },
+                        "fr": {
+                            "title": "Développeur **Logiciel**",
+                            "info": "Bigscal Technologies Pvt Ltd",
+                            "text": "Géré le logiciel de facturation GUVNL pour les appels d'offres gouvernementaux, traitant plus de ₹12 lakh de facturation quotidienne et améliorant les performances de 30%. Développé l'application de santé Healthray avec des modules IPD, OPD, prescriptions, HRMS et rapports, améliorant les performances de 20%.",
+                            "tags": ["JavaScript", "React", "Node.js", "Android", "Java", "Kotlin", "REST", "Oracle"]
+                        },
+                        "ko": {
+                            "title": "**소프트웨어** 개발자",
+                            "info": "Bigscal Technologies Pvt Ltd",
+                            "text": "GUVNL 정부 입찰 소프트웨어를 관리하며, 매일 ₹12+ lakh의 청구 및 결제를 처리하고 앱 성능을 30% 향상시켰습니다. IPD, OPD, 처방전, HRMS, 병상 가용성, 예약, 공지사항, 보고서 모듈을 갖춘 Healthray Android 의료 앱을 개발하여 성능을 20% 향상시켰습니다.",
+                            "tags": ["JavaScript", "React", "Node.js", "Android", "Java", "Kotlin", "REST", "Oracle"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/bigscal.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "10/01/2024",
                         "end": "now"
                     },
                     "locales": {
                         "en": {
                             "title": "**Software** Developer",
-                            "info": "BigScal",
-                            "text": "Worked alongside a team of developers to design, develop, and maintain scalable software solutions for client projects, ensuring seamless integration between frontend and backend systems.",
-                            "tags": ["JavaScript", "React", "Node.js", "Android", "Java", "Kotlin", "REST"]
+                            "info": "YOHOsys",
+                            "text": "Delivered Anzer and Xeroque projects on time and within budget by leading teams and optimizing workflows. Built Anzer, an RFQ-based procurement platform with automated supplier pricing, order placement, and tracking. Developed Xeroque, a healthcare appointment and queue management system with WhatsApp (Meta) integration and real-time token tracking. Reduced costs by 20% and improved delivery efficiency by 25% through streamlined collaboration.",
+                            "tags": ["Python", "Generative AI", "MCP Server", "Workflow Automation", "Next.js", "Node.js", "WhatsApp API"]
                         },
                         "es": {
                             "title": "Desarrollador de **Software**",
-                            "info": "BigScal",
-                            "text": "Colaboré con un equipo de desarrolladores para diseñar, desarrollar y mantener soluciones de software escalables para proyectos de clientes, asegurando una integración fluida entre los sistemas frontend y backend.",
-                            "tags": null
+                            "info": "YOHOsys",
+                            "text": "Entregué los proyectos Anzer y Xeroque a tiempo y dentro del presupuesto. Construí Anzer, una plataforma de adquisiciones basada en RFQ con precios automatizados de proveedores. Desarrollé Xeroque, un sistema de gestión de citas y colas médicas con integración de WhatsApp (Meta) y seguimiento de tokens en tiempo real.",
+                            "tags": ["Python", "IA Generativa", "Servidor MCP", "Automatización de Flujos", "Next.js", "Node.js", "WhatsApp API"]
                         },
                         "fr": {
                             "title": "Développeur **Logiciel**",
-                            "info": "BigScal",
-                            "text": "J'ai collaboré avec une équipe de développeurs pour concevoir, développer et maintenir des solutions logicielles évolutives pour des projets clients, garantissant une intégration fluide entre les systèmes frontend et backend.",
-                            "tags": null
+                            "info": "YOHOsys",
+                            "text": "Livré les projets Anzer et Xeroque dans les délais et le budget. Construit Anzer, une plateforme d'approvisionnement basée sur les RFQ avec tarification automatisée. Développé Xeroque, un système de gestion de rendez-vous et de files d'attente avec intégration WhatsApp (Meta) et suivi de tokens en temps réel.",
+                            "tags": ["Python", "IA Générative", "Serveur MCP", "Automatisation des Workflows", "Next.js", "Node.js", "WhatsApp API"]
                         },
                         "ko": {
                             "title": "**소프트웨어** 개발자",
-                            "info": "BigScal",
-                            "text": "개발자 팀과 협력하여 고객 프로젝트를 위한 확장 가능한 소프트웨어 솔루션을 설계, 개발 및 유지보수하며 프론트엔드와 백엔드 시스템 간의 원활한 통합을 보장했습니다.",
-                            "tags": null
+                            "info": "YOHOsys",
+                            "text": "Anzer 및 Xeroque 프로젝트를 예산 내에서 기한 내에 납품했습니다. RFQ 기반 조달 플랫폼 Anzer를 구축하고, WhatsApp (Meta) 통합 및 실시간 토큰 추적 기능이 있는 의료 예약 및 대기열 관리 시스템 Xeroque를 개발했습니다. 협업 최적화를 통해 비용 20% 절감, 배송 효율 25% 향상.",
+                            "tags": ["Python", "생성형 AI", "MCP 서버", "워크플로우 자동화", "Next.js", "Node.js", "WhatsApp API"]
                         }
                     }
                 }

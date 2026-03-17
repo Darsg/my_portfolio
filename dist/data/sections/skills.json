@@ -36,25 +36,25 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-table-columns",
+                        "fa": "fa-solid fa-robot",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
                         "en": {
-                            "title": "**Website** Design",
-                            "text": "I will bring your ideas to life!"
+                            "title": "**Generative AI** & MCP",
+                            "text": "Building AI tools, custom MCP servers, and intelligent workflow automations!"
                         },
                         "es": {
-                            "title": "Diseño de **sitios web**",
-                            "text": "¡Haré realidad tus ideas!"
+                            "title": "**IA Generativa** y MCP",
+                            "text": "¡Construyendo herramientas de IA, servidores MCP personalizados y automatizaciones inteligentes!"
                         },
                         "fr": {
-                            "title": "Conception de **sites web**",
-                            "text": "Je donnerai vie à vos idées !"
+                            "title": "**IA Générative** & MCP",
+                            "text": "Création d'outils IA, de serveurs MCP personnalisés et d'automatisations intelligentes !"
                         },
                         "ko": {
-                            "title": "**웹사이트** 디자인",
-                            "text": "당신의 아이디어를 현실로 만들어 드립니다!"
+                            "title": "**생성형 AI** & MCP",
+                            "text": "AI 도구, 맞춤형 MCP 서버 및 지능형 워크플로우 자동화를 구축합니다!"
                         }
                     }
                 },
@@ -62,25 +62,25 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-database",
+                        "fa": "fa-solid fa-table-columns",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
                         "en": {
-                            "title": "**Database** Management",
-                            "text": "I can efficiently manage your data!"
+                            "title": "**Full-Stack** Development",
+                            "text": "End-to-end web apps with React, Next.js, Node.js, and scalable backends!"
                         },
                         "es": {
-                            "title": "Gestión de **bases de datos**",
-                            "text": "¡Puedo gestionar tus datos de manera eficiente!"
+                            "title": "Desarrollo **Full-Stack**",
+                            "text": "¡Aplicaciones web completas con React, Next.js, Node.js y backends escalables!"
                         },
                         "fr": {
-                            "title": "Gestion de **bases de données**",
-                            "text": "Je peux gérer vos données de manière efficace !"
+                            "title": "Développement **Full-Stack**",
+                            "text": "Applications web complètes avec React, Next.js, Node.js et backends évolutifs !"
                         },
                         "ko": {
-                            "title": "**데이터베이스** 관리",
-                            "text": "데이터를 효율적으로 관리할 수 있습니다!"
+                            "title": "**풀스택** 개발",
+                            "text": "React, Next.js, Node.js를 활용한 종합적 웹 애플리케이션 개발!"
                         }
                     }
                 },
@@ -93,20 +93,46 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**App** Development",
-                            "text": "I can design and build innovative, high-quality applications!"
+                            "title": "**Mobile** Development",
+                            "text": "Android SDK, Kotlin, Jetpack Compose, MVVM — I build native mobile apps!"
                         },
                         "es": {
-                            "title": "Desarrollo de **aplicaciones**",
-                            "text": "¡Puedo diseñar y desarrollar aplicaciones innovadoras y de alta calidad!"
+                            "title": "Desarrollo **Móvil**",
+                            "text": "¡Android SDK, Kotlin, Jetpack Compose, MVVM — construyo aplicaciones nativas!"
                         },
                         "fr": {
-                            "title": "Développement d'**applications**",
-                            "text": "Je peux concevoir et développer des applications innovantes et de haute qualité !"
+                            "title": "Développement **Mobile**",
+                            "text": "Android SDK, Kotlin, Jetpack Compose, MVVM — je développe des apps natives !"
                         },
                         "ko": {
-                            "title": "**앱** 개발",
-                            "text": "창의적이고 고품질의 앱을 설계하고 개발할 수 있습니다!"
+                            "title": "**모바일** 개발",
+                            "text": "Android SDK, Kotlin, Jetpack Compose, MVVM — 네이티브 앱을 개발합니다!"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Database** & Cloud",
+                            "text": "Firebase, Supabase, GCP Cloud Functions — cloud-native data management!"
+                        },
+                        "es": {
+                            "title": "**Base de Datos** y Nube",
+                            "text": "¡Firebase, Supabase, GCP Cloud Functions — gestión de datos nativa en la nube!"
+                        },
+                        "fr": {
+                            "title": "**Base de Données** & Cloud",
+                            "text": "Firebase, Supabase, GCP Cloud Functions — gestion de données cloud native !"
+                        },
+                        "ko": {
+                            "title": "**데이터베이스** & 클라우드",
+                            "text": "Firebase, Supabase, GCP Cloud Functions — 클라우드 네이티브 데이터 관리!"
                         }
                     }
                 },
@@ -120,19 +146,19 @@
                     "locales": {
                         "en": {
                             "title": "REST **APIs**",
-                            "text": "I have the expertise to develop robust and efficient API services!"
+                            "text": "Robust, scalable API services for any platform — my forte!"
                         },
                         "es": {
                             "title": "APIs **REST**",
-                            "text": "¡Tengo la experiencia para desarrollar servicios API robustos y eficientes!"
+                            "text": "¡Servicios API robustos y escalables para cualquier plataforma!"
                         },
                         "fr": {
                             "title": "APIs **REST**",
-                            "text": "J'ai l'expertise nécessaire pour développer des services API robustes et efficaces !"
+                            "text": "Services API robustes et évolutifs pour toute plateforme !"
                         },
                         "ko": {
                             "title": "REST **API**",
-                            "text": "강력하고 효율적인 API 서비스를 개발할 수 있습니다!"
+                            "text": "모든 플랫폼을 위한 강력하고 확장 가능한 API 서비스!"
                         }
                     }
                 },
@@ -167,11 +193,108 @@
         },
 
         {
+            "id": "ai_and_python",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "AI & Python"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-python",
+                        "faColors": {"bg": "#3776AB", "fill": "#FFD43B"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "01/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Python",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-robot",
+                        "faColors": {"bg": "#10A37F", "fill": "#EEE"}
+                    },
+                    "value": 88,
+                    "dates": {
+                        "start": "06/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Generative AI / LLMs",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-server",
+                        "faColors": {"bg": "#7C3AED", "fill": "#EEE"}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "01/01/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MCP Server Development",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-diagram-project",
+                        "faColors": {"bg": "#F59E0B", "fill": "#111"}
+                    },
+                    "value": 87,
+                    "dates": {
+                        "start": "06/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "AI Workflow Creation",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-brain",
+                        "faColors": {"bg": "#EC4899", "fill": "#EEE"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "01/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "AI Tools Creation",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
             "id": "backend_programming",
             "component": "ArticleList",
             "config": {},
             "locales": {
-                "en": {"title": "Backend"}
+                "en": {"title": "Web & Backend"}
             },
 
             "items": [
@@ -195,10 +318,44 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-leaf",
-                        "faColors": {"bg": "##0F4D0F", "fill": "#FFFFFF"}
+                        "fa": "fa-brands fa-react",
+                        "faColors": {"bg": "#61DAFB", "fill": "#111"}
                     },
-                    "value": 87,
+                    "value": 90,
+                    "dates": {
+                        "start": "06/20/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "React.js / Next.js",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-js",
+                        "faColors": {"bg": "#F7DF1E", "fill": "#111"}
+                    },
+                    "value": 92,
+                    "dates": {
+                        "start": "01/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "TypeScript / JavaScript",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-leaf",
+                        "faColors": {"bg": "#0F4D0F", "fill": "#FFFFFF"}
+                    },
+                    "value": 85,
                     "dates": {
                         "start": "08/01/2021"
                     },
@@ -212,16 +369,16 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-java",
-                        "faColors": {"bg": "#007396", "fill": "#EEE"}
+                        "fa": "fa-solid fa-fire",
+                        "faColors": {"bg": "#FFCA28", "fill": "#111"}
                     },
-                    "value": 95,
+                    "value": 88,
                     "dates": {
-                        "start": "08/1/2020"
+                        "start": "01/01/2020"
                     },
                     "locales": {
                         "en": {
-                            "title": "Java 11+",
+                            "title": "Firebase / Supabase",
                             "info": null
                         }
                     }
@@ -229,16 +386,16 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-database",
-                        "faColors": {"bg": "#4479A1", "fill": "#EEE"}
+                        "fa": "fa-brands fa-google",
+                        "faColors": {"bg": "#4285F4", "fill": "#EEE"}
                     },
-                    "value": 92,
+                    "value": 82,
                     "dates": {
-                        "start": "10/10/2020"
+                        "start": "01/01/2021"
                     },
                     "locales": {
                         "en": {
-                            "title": "MySQL",
+                            "title": "GCP Cloud Functions",
                             "info": null
                         }
                     }
@@ -246,50 +403,16 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-docker",
-                        "faColors": {"bg": "#2496ED", "fill": "#EEE"}
+                        "fa": "fa-solid fa-window-restore",
+                        "faColors": {"bg": "#3178C6", "fill": "#EEE"}
                     },
-                    "value": 70,
+                    "value": 90,
                     "dates": {
-                        "start": "07/01/2022"
+                        "start": "01/01/2020"
                     },
                     "locales": {
                         "en": {
-                            "title": "Docker",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-life-ring",
-                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
-                    },
-                    "value": 70,
-                    "dates": {
-                        "start": "07/01/2022"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Kubernetes",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-server",
-                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
-                    },
-                    "value": 80,
-                    "dates": {
-                        "start": "04/01/2021"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "MongoDB",
+                            "title": "REST APIs",
                             "info": null
                         }
                     }
@@ -315,78 +438,95 @@
         },
 
         {
-            "id": "front_end_programming",
+            "id": "mobile_development",
             "component": "ArticleList",
             "config": {},
             "locales": {
-                "en": {"title": "Frontend"}
+                "en": {"title": "Mobile Development"}
             },
 
             "items": [
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-html5",
-                        "faColors": {"bg": "#E34F26", "fill": "#EEE"}
-                    },
-                    "value": 100,
-                    "dates": {
-                        "start": "09/01/2018"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "HTML5",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-css3",
-                        "faColors": {"bg": "#1572B6", "fill": "#EEE"}
-                    },
-                    "value": 65,
-                    "dates": {
-                        "start": "01/15/2019"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "CSS3",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-react",
-                        "faColors": {"bg": "#61DAFB", "fill": "#111"}
-                    },
-                    "value": 90,
-                    "dates": {
-                        "start": "06/20/2020"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "React",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
                         "fa": "fa-brands fa-android",
-                        "faColors": {"bg": "#FFFFFF", "fill": "#111"}
+                        "faColors": {"bg": "#3DDC84", "fill": "#111"}
                     },
                     "value": 95,
                     "dates": {
-                        "start": "02/10/2020"
+                        "start": "07/01/2019"
                     },
                     "locales": {
                         "en": {
-                            "title": "Android",
+                            "title": "Android SDK",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-code",
+                        "faColors": {"bg": "#7F52FF", "fill": "#EEE"}
+                    },
+                    "value": 93,
+                    "dates": {
+                        "start": "01/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Kotlin",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-java",
+                        "faColors": {"bg": "#007396", "fill": "#EEE"}
+                    },
+                    "value": 95,
+                    "dates": {
+                        "start": "07/01/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Java",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-layer-group",
+                        "faColors": {"bg": "#4285F4", "fill": "#EEE"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "01/01/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Jetpack Compose",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-sitemap",
+                        "faColors": {"bg": "#FF6F00", "fill": "#EEE"}
+                    },
+                    "value": 92,
+                    "dates": {
+                        "start": "01/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MVVM / Clean Architecture",
                             "info": null
                         }
                     }
