@@ -122,6 +122,66 @@
 
             "items": [
                 {
+                    "value": "Frank Fransaco",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-user",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "CEO at <b>Ntwarkz</b>",
+                            "text": "Darsh turned our ideas into reliable, production-ready software faster than we expected. Clear communication, full ownership, and deep Python and AI expertise brought real value to Ntwarkz. A true partner."
+                        },
+                        "es": {
+                            "info": "CEO de <b>Ntwarkz</b>",
+                            "text": "Darsh convirtió nuestras ideas en software fiable y listo para producción más rápido de lo esperado. Comunicación clara, compromiso total y gran experiencia en Python e IA que aportó mucho valor a Ntwarkz."
+                        },
+                        "fr": {
+                            "info": "PDG de <b>Ntwarkz</b>",
+                            "text": "Darsh a transformé nos idées en un logiciel fiable et prêt pour la production plus vite que prévu. Communication claire, sens des responsabilités et une expertise Python et IA précieuse pour Ntwarkz."
+                        },
+                        "ko": {
+                            "info": "<b>Ntwarkz</b> CEO",
+                            "text": "Darsh는 우리의 아이디어를 예상보다 빠르게 안정적인 프로덕션 수준의 소프트웨어로 구현했습니다. 명확한 소통, 강한 책임감, 깊은 Python 및 AI 전문성으로 Ntwarkz에 큰 가치를 더했습니다. 진정한 파트너입니다."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Migule",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-user",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "CEO at <b>Workigo</b>",
+                            "text": "Darsh quickly understood our business, delivered clean, scalable solutions on time, and was always ready to help. Working together was a great experience, and we'd gladly team up again on future Workigo projects."
+                        },
+                        "es": {
+                            "info": "CEO de <b>Workigo</b>",
+                            "text": "Darsh entendió rápido nuestro negocio, entregó soluciones limpias y escalables a tiempo y siempre mostró disposición para ayudar. Una gran experiencia; sin duda volveremos a colaborar en Workigo."
+                        },
+                        "fr": {
+                            "info": "PDG de <b>Workigo</b>",
+                            "text": "Darsh a vite compris notre activité, livré à temps des solutions propres et évolutives, et a toujours été disponible pour aider. Une superbe expérience : nous retravaillerons ensemble sur nos projets Workigo."
+                        },
+                        "ko": {
+                            "info": "<b>Workigo</b> CEO",
+                            "text": "Darsh는 우리 비즈니스를 빠르게 이해하고, 깔끔하고 확장 가능한 솔루션을 제때 제공했으며, 언제나 기꺼이 도와주었습니다. 함께한 시간은 훌륭한 경험이었고, 앞으로도 Workigo 프로젝트에서 다시 협업하고 싶습니다."
+                        }
+                    }
+                },
+
+                {
                     "value": "Naumi Gadhiya",
                     "links": [
                         {"href": "https://in.linkedin.com/in/naumi-gadhiya-97246a24b"}
