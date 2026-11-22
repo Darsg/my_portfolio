@@ -26,7 +26,7 @@ A modern, responsive, and multilingual portfolio website built with **React** + 
 | Technology | Purpose |
 |------------|---------|
 | React 18 | UI Framework |
-| Vite 5 | Build Tool & Dev Server |
+| Vite 6 | Build Tool & Dev Server |
 | SCSS | Styling |
 | Bootstrap 5 | Responsive Grid & Components |
 | Chart.js | Skill Proficiency Charts |
