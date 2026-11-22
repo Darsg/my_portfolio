@@ -42,19 +42,45 @@
                     "locales": {
                         "en": {
                             "title": "**Generative AI** & MCP",
-                            "text": "Building AI tools, custom MCP servers, and intelligent workflow automations!"
+                            "text": "Building LLM-powered AI tools, custom MCP servers, and intelligent workflow automations!"
                         },
                         "es": {
                             "title": "**IA Generativa** y MCP",
-                            "text": "¡Construyendo herramientas de IA, servidores MCP personalizados y automatizaciones inteligentes!"
+                            "text": "¡Construyendo herramientas de IA con LLMs, servidores MCP personalizados y automatizaciones inteligentes!"
                         },
                         "fr": {
                             "title": "**IA Générative** & MCP",
-                            "text": "Création d'outils IA, de serveurs MCP personnalisés et d'automatisations intelligentes !"
+                            "text": "Création d'outils IA basés sur les LLM, de serveurs MCP personnalisés et d'automatisations intelligentes !"
                         },
                         "ko": {
                             "title": "**생성형 AI** & MCP",
-                            "text": "AI 도구, 맞춤형 MCP 서버 및 지능형 워크플로우 자동화를 구축합니다!"
+                            "text": "LLM 기반 AI 도구, 맞춤형 MCP 서버 및 지능형 워크플로우 자동화를 구축합니다!"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-python",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Python** Backends & Scraping",
+                            "text": "Django & FastAPI backends, plus scrapers that turn websites into clean, structured data!"
+                        },
+                        "es": {
+                            "title": "Backends **Python** y Scraping",
+                            "text": "¡Backends con Django y FastAPI, y scrapers que convierten sitios web en datos limpios y estructurados!"
+                        },
+                        "fr": {
+                            "title": "Backends **Python** & Scraping",
+                            "text": "Backends Django & FastAPI, et scrapers qui transforment les sites web en données propres et structurées !"
+                        },
+                        "ko": {
+                            "title": "**Python** 백엔드 & 스크래핑",
+                            "text": "Django·FastAPI 백엔드와 웹사이트를 깔끔하고 구조화된 데이터로 바꾸는 스크래퍼를 개발합니다!"
                         }
                     }
                 },
@@ -120,19 +146,19 @@
                     "locales": {
                         "en": {
                             "title": "**Database** & Cloud",
-                            "text": "Firebase, Supabase, GCP Cloud Functions — cloud-native data management!"
+                            "text": "MySQL, PostgreSQL, MongoDB & Firebase on AWS, GCP and Azure, shipped with Docker & Kubernetes!"
                         },
                         "es": {
                             "title": "**Base de Datos** y Nube",
-                            "text": "¡Firebase, Supabase, GCP Cloud Functions — gestión de datos nativa en la nube!"
+                            "text": "¡MySQL, PostgreSQL, MongoDB y Firebase en AWS, GCP y Azure, desplegados con Docker y Kubernetes!"
                         },
                         "fr": {
                             "title": "**Base de Données** & Cloud",
-                            "text": "Firebase, Supabase, GCP Cloud Functions — gestion de données cloud native !"
+                            "text": "MySQL, PostgreSQL, MongoDB et Firebase sur AWS, GCP et Azure, déployés avec Docker et Kubernetes !"
                         },
                         "ko": {
                             "title": "**데이터베이스** & 클라우드",
-                            "text": "Firebase, Supabase, GCP Cloud Functions — 클라우드 네이티브 데이터 관리!"
+                            "text": "AWS, GCP, Azure 기반의 MySQL, PostgreSQL, MongoDB, Firebase — Docker와 Kubernetes로 배포합니다!"
                         }
                     }
                 },
@@ -207,9 +233,9 @@
                         "fa": "fa-brands fa-python",
                         "faColors": {"bg": "#3776AB", "fill": "#FFD43B"}
                     },
-                    "value": 90,
+                    "value": 98,
                     "dates": {
-                        "start": "01/01/2022"
+                        "start": "01/01/2019"
                     },
                     "locales": {
                         "en": {
@@ -226,7 +252,7 @@
                     },
                     "value": 88,
                     "dates": {
-                        "start": "06/01/2023"
+                        "start": "06/01/2022"
                     },
                     "locales": {
                         "en": {
@@ -238,12 +264,29 @@
                 {
                     "icon": {
                         "img": null,
+                        "fa": "fa-solid fa-comment-dots",
+                        "faColors": {"bg": "#6366F1", "fill": "#EEE"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "06/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "LLM Integration & RAG",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
                         "fa": "fa-solid fa-server",
                         "faColors": {"bg": "#7C3AED", "fill": "#EEE"}
                     },
-                    "value": 85,
+                    "value": 95,
                     "dates": {
-                        "start": "01/01/2024"
+                        "start": "11/01/2024"
                     },
                     "locales": {
                         "en": {
@@ -260,7 +303,7 @@
                     },
                     "value": 87,
                     "dates": {
-                        "start": "06/01/2023"
+                        "start": "06/01/2022"
                     },
                     "locales": {
                         "en": {
@@ -275,13 +318,64 @@
                         "fa": "fa-solid fa-brain",
                         "faColors": {"bg": "#EC4899", "fill": "#EEE"}
                     },
-                    "value": 80,
+                    "value": 100,
                     "dates": {
-                        "start": "01/01/2023"
+                        "start": "01/01/2022"
                     },
                     "locales": {
                         "en": {
                             "title": "AI Tools Creation",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-d",
+                        "faColors": {"bg": "#092E20", "fill": "#44B78B"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "01/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Django",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-bolt",
+                        "faColors": {"bg": "#009688", "fill": "#EEE"}
+                    },
+                    "value": 93,
+                    "dates": {
+                        "start": "01/01/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "FastAPI",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-spider",
+                        "faColors": {"bg": "#334155", "fill": "#EEE"}
+                    },
+                    "value": 92,
+                    "dates": {
+                        "start": "01/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Web Scraping",
                             "info": null
                         }
                     }
@@ -306,7 +400,7 @@
                     },
                     "value": 90,
                     "dates": {
-                        "start": "08/01/2021"
+                        "start": "08/01/2020"
                     },
                     "locales": {
                         "en": {
@@ -323,7 +417,7 @@
                     },
                     "value": 90,
                     "dates": {
-                        "start": "06/20/2020"
+                        "start": "06/20/2019"
                     },
                     "locales": {
                         "en": {
@@ -340,7 +434,7 @@
                     },
                     "value": 92,
                     "dates": {
-                        "start": "01/01/2020"
+                        "start": "01/01/2019"
                     },
                     "locales": {
                         "en": {
@@ -357,7 +451,7 @@
                     },
                     "value": 85,
                     "dates": {
-                        "start": "08/01/2021"
+                        "start": "08/01/2020"
                     },
                     "locales": {
                         "en": {
@@ -369,46 +463,12 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-fire",
-                        "faColors": {"bg": "#FFCA28", "fill": "#111"}
-                    },
-                    "value": 88,
-                    "dates": {
-                        "start": "01/01/2020"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Firebase / Supabase",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-google",
-                        "faColors": {"bg": "#4285F4", "fill": "#EEE"}
-                    },
-                    "value": 82,
-                    "dates": {
-                        "start": "01/01/2021"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "GCP Cloud Functions",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
                         "fa": "fa-solid fa-window-restore",
                         "faColors": {"bg": "#3178C6", "fill": "#EEE"}
                     },
-                    "value": 90,
+                    "value": 100,
                     "dates": {
-                        "start": "01/01/2020"
+                        "start": "01/01/2019"
                     },
                     "locales": {
                         "en": {
@@ -425,11 +485,176 @@
                     },
                     "value": 95,
                     "dates": {
-                        "start": "12/01/2020"
+                        "start": "12/01/2019"
                     },
                     "locales": {
                         "en": {
                             "title": "Git",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "database_cloud",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Database, Cloud & DevOps"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#00758F", "fill": "#F29111"}
+                    },
+                    "value": 92,
+                    "dates": {
+                        "start": "01/01/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#336791", "fill": "#EEE"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "01/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "PostgreSQL",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-leaf",
+                        "faColors": {"bg": "#001E2B", "fill": "#00ED64"}
+                    },
+                    "value": 88,
+                    "dates": {
+                        "start": "06/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-fire",
+                        "faColors": {"bg": "#FFCA28", "fill": "#111"}
+                    },
+                    "value": 88,
+                    "dates": {
+                        "start": "01/01/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Firebase / Supabase",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-aws",
+                        "faColors": {"bg": "#232F3E", "fill": "#FF9900"}
+                    },
+                    "value": 86,
+                    "dates": {
+                        "start": "01/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "AWS",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-google",
+                        "faColors": {"bg": "#4285F4", "fill": "#EEE"}
+                    },
+                    "value": 82,
+                    "dates": {
+                        "start": "01/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Google Cloud (GCP)",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-microsoft",
+                        "faColors": {"bg": "#0078D4", "fill": "#EEE"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "06/01/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Microsoft Azure",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-docker",
+                        "faColors": {"bg": "#2496ED", "fill": "#EEE"}
+                    },
+                    "value": 88,
+                    "dates": {
+                        "start": "06/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Docker",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-dharmachakra",
+                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
+                    },
+                    "value": 82,
+                    "dates": {
+                        "start": "01/01/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Kubernetes",
                             "info": null
                         }
                     }
@@ -454,7 +679,7 @@
                     },
                     "value": 95,
                     "dates": {
-                        "start": "07/01/2019"
+                        "start": "07/01/2018"
                     },
                     "locales": {
                         "en": {
@@ -471,7 +696,7 @@
                     },
                     "value": 93,
                     "dates": {
-                        "start": "01/01/2020"
+                        "start": "01/01/2019"
                     },
                     "locales": {
                         "en": {
@@ -488,7 +713,7 @@
                     },
                     "value": 95,
                     "dates": {
-                        "start": "07/01/2019"
+                        "start": "07/01/2018"
                     },
                     "locales": {
                         "en": {
@@ -505,7 +730,7 @@
                     },
                     "value": 90,
                     "dates": {
-                        "start": "01/01/2021"
+                        "start": "01/01/2020"
                     },
                     "locales": {
                         "en": {
@@ -522,7 +747,7 @@
                     },
                     "value": 92,
                     "dates": {
-                        "start": "01/01/2020"
+                        "start": "01/01/2019"
                     },
                     "locales": {
                         "en": {
