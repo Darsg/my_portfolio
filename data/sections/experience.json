@@ -78,7 +78,7 @@
                     },
                     "dates": {
                         "start": "01/01/2022",
-                        "end": "09/30/2024"
+                        "end": "09/30/2025"
                     },
                     "locales": {
                         "en": {
@@ -109,12 +109,12 @@
                 },
                 {
                     "icon": {
-                        "img": "images/pictures/bigscal.png",
+                        "img": "images/pictures/yohosys_logo.jpeg",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "10/01/2024",
+                        "start": "10/01/2025",
                         "end": "09/30/2026"
                     },
                     "locales": {
