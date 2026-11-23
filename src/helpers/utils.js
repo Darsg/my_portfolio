@@ -195,7 +195,6 @@ export const useUtils = () => {
         }
 
         const date = new Date(rawDate)
-        date.setDate(date.getDate() + 1)
 
         let localization = date.toLocaleString(languageId, options)
         localization = localization.charAt(0).toUpperCase() + localization.slice(1)
