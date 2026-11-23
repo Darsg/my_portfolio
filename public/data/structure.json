@@ -8,13 +8,6 @@
         },
 
         {
-            "id": "education",
-            "categoryId": "background",
-            "jsonPath": "/data/sections/education.json",
-            "faIcon": "fa-solid fa-graduation-cap"
-        },
-
-        {
             "id": "skills",
             "categoryId": "showcase",
             "jsonPath": "/data/sections/skills.json",
@@ -90,6 +83,13 @@
     ],
 
     "add_it_later": [
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/data/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap"
+        },
+
         {
             "id": "achievements",
             "categoryId": "showcase",

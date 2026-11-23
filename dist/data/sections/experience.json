@@ -115,7 +115,7 @@
                     },
                     "dates": {
                         "start": "10/01/2024",
-                        "end": "now"
+                        "end": "09/30/2026"
                     },
                     "locales": {
                         "en": {
@@ -141,6 +141,43 @@
                             "info": "YOHOsys",
                             "text": "Anzer 및 Xeroque 프로젝트를 예산 내에서 기한 내에 납품했습니다. RFQ 기반 조달 플랫폼 Anzer를 구축하고, WhatsApp (Meta) 통합 및 실시간 토큰 추적 기능이 있는 의료 예약 및 대기열 관리 시스템 Xeroque를 개발했습니다. 협업 최적화를 통해 비용 20% 절감, 배송 효율 25% 향상.",
                             "tags": ["Python", "생성형 AI", "MCP 서버", "워크플로우 자동화", "Next.js", "Node.js", "WhatsApp API"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-laptop-code",
+                        "faColors": {"bg": "#7C3AED", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "10/01/2026",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Freelance** Full-Stack & AI Developer",
+                            "info": "Self-employed · Full-time",
+                            "text": "Working full-time as an independent developer, partnering directly with clients to design, build, and ship end-to-end solutions. Delivering Generative AI integrations and MCP servers in Python, full-stack web applications with React, Next.js, and Node.js, and native Android apps — from requirements and architecture through deployment and ongoing support.",
+                            "tags": ["Python", "Generative AI", "MCP Server", "React", "Next.js", "Node.js", "Android"]
+                        },
+                        "es": {
+                            "title": "Desarrollador **Freelance** Full-Stack & IA",
+                            "info": "Autónomo · Tiempo completo",
+                            "text": "Trabajo a tiempo completo como desarrollador independiente, colaborando directamente con clientes para diseñar, construir y entregar soluciones integrales. Desarrollo integraciones de IA Generativa y servidores MCP en Python, aplicaciones web full-stack con React, Next.js y Node.js, y apps nativas de Android — desde los requisitos y la arquitectura hasta el despliegue y el soporte continuo.",
+                            "tags": ["Python", "IA Generativa", "Servidor MCP", "React", "Next.js", "Node.js", "Android"]
+                        },
+                        "fr": {
+                            "title": "Développeur **Freelance** Full-Stack & IA",
+                            "info": "Indépendant · Temps plein",
+                            "text": "Développeur indépendant à temps plein, je collabore directement avec mes clients pour concevoir, construire et livrer des solutions complètes. Je réalise des intégrations d'IA Générative et des serveurs MCP en Python, des applications web full-stack avec React, Next.js et Node.js, ainsi que des applications Android natives — des besoins et de l'architecture jusqu'au déploiement et au support continu.",
+                            "tags": ["Python", "IA Générative", "Serveur MCP", "React", "Next.js", "Node.js", "Android"]
+                        },
+                        "ko": {
+                            "title": "**프리랜서** 풀스택 & AI 개발자",
+                            "info": "개인 사업자 · 풀타임",
+                            "text": "풀타임 독립 개발자로 활동하며 클라이언트와 직접 협력하여 엔드투엔드 솔루션을 설계, 구축 및 제공하고 있습니다. Python 기반 생성형 AI 통합 및 MCP 서버, React·Next.js·Node.js 풀스택 웹 애플리케이션, 네이티브 Android 앱을 요구사항 분석과 아키텍처 설계부터 배포 및 지속적인 지원까지 담당합니다.",
+                            "tags": ["Python", "생성형 AI", "MCP 서버", "React", "Next.js", "Node.js", "Android"]
                         }
                     }
                 }
